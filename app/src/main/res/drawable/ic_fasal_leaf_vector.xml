@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="32dp"
+    android:viewportWidth="108"
+    android:viewportHeight="86">
+    <group
+        android:translateX="4"
+        android:translateY="4">
+        <!-- Solid Brand Leaf Body -->
+        <path
+            android:fillColor="#087A3B"
+            android:pathData="M40,70 C7,58 0,30 6,8 C28,9 42,13 44,36 C59,20 76,8 96,6 C96,39 79,57 47,64 Z" />
+        <!-- Inner Vein Highlights -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3.0"
+            android:strokeLineCap="round"
+            android:pathData="M47,70 C37,47 27,32 12,19 M48,68 C56,46 70,28 87,15" />
+    </group>
+</vector>

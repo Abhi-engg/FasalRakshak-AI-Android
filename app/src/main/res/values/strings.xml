@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FasalRakshak AI</string>
+    <string name="tagline">Offline Crop Disease &amp; Pest Intelligence</string>
+    <string name="scan_leaf">Scan a Leaf</string>
+    <string name="check_your_crop">Check Your Crop</string>
+    <string name="offline_mode_title">Offline Mode Active</string>
+    <string name="offline_mode_desc">Diagnosis runs 100% on-device without internet.</string>
+    <string name="home_tab">Home</string>
+    <string name="scan_tab">Scan</string>
+    <string name="history_tab">History</string>
+    <string name="learn_tab">Learn</string>
+</resources>

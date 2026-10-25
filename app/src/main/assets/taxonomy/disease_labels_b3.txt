@@ -1,0 +1,83 @@
+apple rust
+apple scab
+banana bract mosaic virus
+banana cordana
+banana moko
+banana panama
+banana sigatoka
+bell pepper
+bell pepper spot
+blueberry
+cashew red rust
+cassava brown spot
+cassava mosaic
+cauliflower bacterial spot rot
+cauliflower blackrot
+cauliflower downy mildew
+chili anthracnose
+chili bacterial spot
+chili cercospora spot
+chili curl
+chili curl virus
+chili nutrition deficiency
+chili spot
+chili white spot
+citrus black spot
+citrus canker
+corn blight
+corn gray spot
+corn northern blight
+corn rust
+corn southern blight
+cotton bacterial blight
+cotton curl virus
+grape black rot
+groundnut early rust
+groundnut early spot
+groundnut late spot
+groundnut nutrition deficiency
+groundnut rust
+healthy
+maize spot
+maize streak virus
+papaya bacterialspot
+papaya ringspot
+potato early blight
+potato late blight
+radish black spot
+radish downey mildew
+radish mosaic
+raspberry
+rice bacterial blight
+rice blast
+rice brown spot
+rice curvularia spot
+rice false smut
+rice hispa
+rice sheath blight
+sorghum downy mildew
+squash powdery mildew
+strawberry
+sugarcane brown spot
+sugarcane grassy shoot
+tomato bacterial spot
+tomato blight
+tomato early blight
+tomato late blight
+tomato mold
+tomato mosaic virus
+tomato septoria spot
+tomato yellow virus
+wheat aphid
+wheat blackrust
+wheat blast
+wheat blight
+wheat brown rust
+wheat commonrootrot
+wheat fusariumheadblight
+wheat mildew
+wheat mite
+wheat septoria
+wheat smut
+wheat tanspot
+wheat yellow rust

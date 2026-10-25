@@ -1,0 +1,1832 @@
+{
+  "healthy": {
+    "organism": "Intact Plant Foliage (No Pathogen / Healthy)",
+    "symptoms": "Vibrant chlorophyll green coloration, crisp margins, regular vascular venation. Zero foliar lesions, bacterial ooze, water-soaking, or insect puncture damage observed.",
+    "cultural": "Maintain scheduled drip or furrow irrigation, balanced split N-P-K nutrient application, and regular bi-weekly field scouting.",
+    "biological": "Apply prophylactic soil application of Trichoderma viride (@ 2.5 kg/ha enriched with 250 kg FYM) during final land preparation.",
+    "chemical": "No chemical intervention needed. Avoid unnecessary prophylactic fungicide or pesticide spraying to conserve beneficial field parasitoids.",
+    "etl": "N/A - Optimal crop health.",
+    "severity": "Optimal Crop Health (Normal)",
+    "management": "Maintain balanced N-P-K nutrient application, scheduled irrigation, and regular bi-weekly field scouting."
+  },
+  "rice blast": {
+    "organism": "Magnaporthe oryzae (Pyricularia oryzae) - Ascomycete fungus",
+    "symptoms": "Spindle-shaped elliptical foliar lesions with grayish-white centers and dark brown to reddish-brown margins. Severe collar rot on flag leaves and blackish necrotic lesions at panicle neck causing 'neck blast' and complete spikelet sterility.",
+    "cultural": "Avoid excessive split nitrogen doses (>120 kg N/ha in single dose); drain field standing water intermittently; burn or deeply plow infected stubbles; avoid late planting.",
+    "biological": "Seed treatment with Pseudomonas fluorescens 1% WP (@ 10g/kg seed), followed by seedling root dip (@ 2.5 kg/ha) and foliar spray (@ 5g/L) at 45 days after transplanting.",
+    "chemical": "Seed treatment with Tricyclazole 75% WP (@ 2g/kg seed). Foliar spray of Tricyclazole 75% WP (@ 0.6 g/L or 120 g/acre) or Isoprothiolane 40% EC (@ 1.5 ml/L) or Kasugamycin 3% SL (@ 2.5 ml/L) at initial lesion appearance.",
+    "etl": "2 to 5% leaf area infected with spindle lesions, or neck infection initiation.",
+    "severity": "Critical (Major National Food Security Threat)",
+    "management": "Seed treatment with Tricyclazole 75 WP (@ 2g/kg). Avoid excessive nitrogen. Spray Tricyclazole 75 WP (@ 0.6 g/L) or Isoprothiolane 40 EC (@ 1.5 ml/L) at early booting."
+  },
+  "rice bacterial blight": {
+    "organism": "Xanthomonas oryzae pv. oryzae - Gram-negative bacterium",
+    "symptoms": "Water-soaked translucent stripes starting from leaf tips and margins, expanding into broad wavy yellow-to-straw-colored blights. In early mornings, milky to amber-colored bacterial ooze droplets appear on leaf surface drying into microscopic encrusted beads (kresek phase causes total seedling wilting).",
+    "cultural": "Drain excess stagnant field water; ensure field sanitation; avoid clipping seedling tips at transplanting; delay top dressing of nitrogenous fertilizers until disease ceases.",
+    "biological": "Seed treatment with Pseudomonas fluorescens (@ 10g/kg); foliar spray of fresh cow dung slurry extract (20%) or neem seed kernel extract (NSKE 5%).",
+    "chemical": "Spray Copper Oxychloride 50% WP (@ 2.5 g/L or 500 g/acre) tank-mixed with Streptocycline (Streptomycin sulphate + Tetracycline @ 100 ppm, i.e., 6g per 60 liters of water) or Plantomycin (@ 1 g/L). Repeat after 12-15 days.",
+    "etl": "1-2 infected leaves per hill during active tillering to boot leaf stage.",
+    "severity": "Critical (High Epidemic Potential)",
+    "management": "Drain excess water. Spray Copper Oxychloride 50 WP (@ 2.5 g/L) mixed with Streptocycline (@ 100 ppm) at initial leaf margin yellowing."
+  },
+  "rice brown spot": {
+    "organism": "Bipolaris oryzae (Cochliobolus miyabeanus) - Fungal pathogen",
+    "symptoms": "Numerous circular to oval dark brown spots (0.5 to 1.5 cm) on leaves with yellowish halo surrounding greyish centers. In severe cases, causes blighting of seedling coleoptile and dark discoloration of grain husks ('dirty panicle').",
+    "cultural": "Amend soil with potassium (K2O @ 50 kg/ha) and organic compost to correct nutritional deficiency ('poor man’s disease'); use certified healthy certified seeds.",
+    "biological": "Seed treatment with Trichoderma viride 1% WP (@ 10g/kg seed) + soil application of enriched compost.",
+    "chemical": "Seed treatment with Mancozeb 75% WP (@ 3g/kg). Foliar spray of Propiconazole 25% EC (@ 1 ml/L) or Mancozeb 75% WP (@ 2 g/L) or Edifenphos 50% EC (@ 1 ml/L) at booting.",
+    "etl": "2-3 brown spots per leaf on 10% of hills.",
+    "severity": "High (Nutritional Stress & Foliar Loss)",
+    "management": "Correct soil potash deficiency. Spray Propiconazole 25 EC (@ 1 ml/L) or Mancozeb 75 WP (@ 2 g/L)."
+  },
+  "rice sheath blight": {
+    "organism": "Rhizoctonia solani - Basidiomycete fungus",
+    "symptoms": "Oval or oblong greenish-gray water-soaked lesions on leaf sheaths near water line. Lesions enlarge with irregular dark reddish-brown margins, spreading upward to flag leaf blades forming a 'banded blight' appearance.",
+    "cultural": "Avoid close planting (keep optimum 20x15 cm spacing); remove floating organic sclerotial debris during puddle land prep; reduce nitrogen doses.",
+    "biological": "Foliar spray of Pseudomonas fluorescens (@ 2.5 kg/ha) mixed in 500 L water at 30 and 45 days after transplanting.",
+    "chemical": "Spray Hexaconazole 5% EC (@ 2 ml/L) or Validamycin 3% L (@ 2.5 ml/L) or Thifluzamide 24% SC (@ 0.75 ml/L or 150 ml/acre) targeting lower canopy sheaths.",
+    "etl": "5-10% of hills affected at maximum tillering to panicle initiation.",
+    "severity": "High (Rapid Upward Canopy Spread)",
+    "management": "Maintain optimum spacing. Spray Hexaconazole 5 EC (@ 2 ml/L) or Validamycin 3 L (@ 2.5 ml/L) directing spray nozzle towards sheath bases."
+  },
+  "rice false smut": {
+    "organism": "Ustilaginoidea virens (Villosiclava virens) - Fungal pathogen",
+    "symptoms": "Individual grains transform into large, velvety greenish-orange to dark olive-green pulverulent spore balls (smut balls), covered by a membrane that ruptures to release powdery chlamydospores.",
+    "cultural": "Use certified clean disease-free seeds; avoid excess nitrogen application especially at flowering stage; destroy smutted panicles in plastic bags.",
+    "biological": "Foliar application of Trichoderma viride (@ 2.5 kg/ha) at early boot leaf stage.",
+    "chemical": "Foliar spray of Copper Hydroxide 77% WP (@ 2 g/L) or Propiconazole 25% EC (@ 1 ml/L) or Trifloxystrobin 25% + Tebuconazole 50% WG (@ 0.4 g/L) at booting stage (before flowering).",
+    "etl": "Presence of individual infected smut balls in 2% of panicles.",
+    "severity": "High (Mycotoxin Contamination & Grain Rejection)",
+    "management": "Apply Propiconazole 25 EC (@ 1 ml/L) or Copper Hydroxide (@ 2 g/L) strictly at boot leaf stage before panicle emergence."
+  },
+  "rice hispa": {
+    "organism": "Dicladispa armigera - Chrysomelid spiny beetle",
+    "symptoms": "Adult beetles scrape upper leaf epidermis producing parallel white transparent streaks; larvae mine between leaf epidermal layers causing blistered translucent blotches and whole leaf withering.",
+    "cultural": "Clip top tips of seedling leaves prior to transplanting to eliminate hispa egg batches; pass a kerosene-soaked rope across canopy in flooded field.",
+    "biological": "Conserve eulophid larval parasitoids; spray Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Foliar spray of Chlorpyrifos 20% EC (@ 2.5 ml/L) or Quinalphos 25% EC (@ 2 ml/L) or Triazophos 40% EC (@ 1.5 ml/L).",
+    "etl": "1 adult hispa or 1 damaged leaf per hill.",
+    "severity": "High (Severe Leaf Skeletonization)",
+    "management": "Clip seedling tips before transplanting. Spray Chlorpyrifos 20 EC (@ 2.5 ml/L) or Quinalphos 25 EC (@ 2 ml/L)."
+  },
+  "rice curvularia spot": {
+    "organism": "Curvularia lunata - Fungal pathogen",
+    "symptoms": "Small brown oval spots with diffuse yellow margins on leaf blades; glume discoloration and grain spottedness causing grain chalkiness.",
+    "cultural": "Ensure balanced nutrition with adequate potassium; maintain timely harvest to prevent post-maturity field weathering.",
+    "biological": "Foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Spray Mancozeb 75% WP (@ 2 g/L) or Carbendazim 50% WP (@ 1 g/L) at 50% flowering.",
+    "etl": "5% leaves with active expanding spots.",
+    "severity": "Moderate",
+    "management": "Spray Mancozeb 75 WP (@ 2 g/L) or Carbendazim 50 WP (@ 1 g/L) during panicle emergence."
+  },
+  "asiatic rice borer": {
+    "organism": "Chilo suppressalis / Scirpophaga incertulas (Rice Stem Borer complex)",
+    "symptoms": "Larvae bore into central tillers: during vegetative phase produces dried central shoots known as 'deadhearts'; during flowering phase produces completely bleached, empty, erect panicles known as 'whiteheads'.",
+    "cultural": "Clip seedling leaf tips before transplanting to remove egg masses; synchronous community planting; harvest close to ground level and plow stubble.",
+    "biological": "Release egg parasitoids Trichogramma japonicum (@ 100,000 to 150,000 wasps/ha) 6 times starting from 15 days after transplanting; install pheromone traps (@ 8 traps/ha).",
+    "chemical": "Apply Chlorantraniliprole 0.4% GR (@ 4 kg/acre) or Cartap Hydrochloride 4% G (@ 10 kg/acre) in standing water, or foliar spray Chlorantraniliprole 18.5% SC (@ 0.3 ml/L or 60 ml/acre).",
+    "etl": "2 egg masses/m² or 5% deadhearts at vegetative stage; 2% whiteheads at flowering.",
+    "severity": "Critical (Primary Yield Limiter in Rice)",
+    "management": "Install pheromone traps (8/ha). Apply Chlorantraniliprole 18.5 SC (@ 0.3 ml/L) or Cartap Hydrochloride 4G (@ 10 kg/acre)."
+  },
+  "rice yellow stem borer": {
+    "organism": "Scirpophaga incertulas - Monophagous Lepidopteran stem borer",
+    "symptoms": "Deadhearts in vegetative tillers and whiteheads with chaffy grain during reproductive booting/flowering.",
+    "cultural": "Destroy stubbles after harvest; install light traps (1/ha) to monitor adult moths; clip seedling tips.",
+    "biological": "Release Trichogramma japonicum (@ 1.5 lakh/ha) weekly; deploy sex pheromone lure traps.",
+    "chemical": "Broadcast Cartap Hydrochloride 4G (@ 10 kg/acre) or spray Fipronil 5% SC (@ 2 ml/L) or Flubendiamide 39.35% SC (@ 0.25 ml/L).",
+    "etl": "5% deadhearts or 1 egg mass per 10 hills.",
+    "severity": "Critical (Whitehead Inducer)",
+    "management": "Deploy pheromone traps. Apply Fipronil 5 SC (@ 2 ml/L) or Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "rice white stem borer": {
+    "organism": "Scirpophaga innotata - Rice Stem Borer",
+    "symptoms": "Central shoot withering (deadheart) and panicle bleaching (whitehead).",
+    "cultural": "Maintain continuous shallow flooding; destroy stubble; clip tips of seedlings.",
+    "biological": "Trichogramma japonicum release (@ 1.5 lakh/ha); conserve larval braconid parasitoids.",
+    "chemical": "Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) or Cartap Hydrochloride 50% SP (@ 2 g/L).",
+    "etl": "5% deadheart during vegetative stage.",
+    "severity": "High",
+    "management": "Spray Chlorantraniliprole 18.5 SC (@ 0.3 ml/L) or Cartap Hydrochloride 50 SP (@ 2 g/L)."
+  },
+  "yellow rice borer": {
+    "organism": "Scirpophaga incertulas (Yellow Stem Borer)",
+    "symptoms": "Deadheart in vegetative crop, whitehead at heading stage with hollowed stem interior.",
+    "cultural": "Synchronized planting, avoid high N fertilizer, light traps.",
+    "biological": "Release Trichogramma japonicum (@ 1.5 lakh/ha) at weekly intervals.",
+    "chemical": "Cartap Hydrochloride 4G (@ 10 kg/acre) or Chlorantraniliprole 18.5 SC (@ 0.3 ml/L).",
+    "etl": "5% deadhearts or 1 egg mass/10 hills.",
+    "severity": "Critical",
+    "management": "Use pheromone traps (8/ha) and spray Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "brown plant hopper": {
+    "organism": "Nilaparvata lugens - Delphacid planthopper",
+    "symptoms": "Nymphs and adults congregate at base of rice hills above water line, sucking sap. Infested plants turn yellow and dry up in circular patches displaying characteristic 'hopperburn'; secretes sticky honeydew fostering sooty mold.",
+    "cultural": "Provide alleyways (30 cm gap after every 2 meters); alternate wetting and drying (AWD) to deprive hoppers of humid microclimate; avoid synthetic pyrethroids which cause resurgence.",
+    "biological": "Conserve mirid bugs (Cyrtorhinus lividipennis) and spiders (Lycosa pseudoannulata); apply entomopathogenic fungus Metarhizium anisopliae (@ 5g/L).",
+    "chemical": "Foliar spray directed strictly at stem base: Triflumezopyrim 10% SC (@ 0.5 ml/L or 94 ml/acre) or Pymetrozine 50% WG (@ 0.6 g/L or 120 g/acre) or Dinotefuran 20% SG (@ 0.4 g/L).",
+    "etl": "1-2 insects per tiller during vegetative stage; 2-5 insects per tiller after panicle emergence.",
+    "severity": "Critical (Hopperburn Collapse Threat)",
+    "management": "Practice Alternate Wetting and Drying (AWD). Spray Triflumezopyrim 10 SC (@ 0.5 ml/L) or Pymetrozine 50 WG (@ 0.6 g/L) directly into stem base."
+  },
+  "white backed plant hopper": {
+    "organism": "Sogatella furcifera - Delphacid planthopper",
+    "symptoms": "White adult diamond streak on thorax; suck phloem sap at hill bases producing leaf orange-yellowing and hopperburn patches.",
+    "cultural": "AWD irrigation; avoid high split N; maintain proper crop spacing.",
+    "biological": "Conserve Lycosa predatory wolf spiders; spray Metarhizium anisopliae (@ 5g/L).",
+    "chemical": "Spray Pymetrozine 50% WG (@ 0.6 g/L) or Dinotefuran 20% SG (@ 0.4 g/L) or Buprofezin 25% SC (@ 1.5 ml/L).",
+    "etl": "10-15 insects per hill.",
+    "severity": "High (Hopperburn & Stunting)",
+    "management": "Drain water for 3-4 days. Spray Pymetrozine 50 WG (@ 0.6 g/L) or Dinotefuran 20 SG (@ 0.4 g/L)."
+  },
+  "small brown plant hopper": {
+    "organism": "Laodelphax striatellus - Planthopper vector",
+    "symptoms": "Sap feeding at stem bases; vector of Rice Stripe Virus and black-streaked dwarf disease.",
+    "cultural": "Eliminate alternate grassy hosts; AWD water management.",
+    "biological": "Beauveria bassiana (@ 5g/L) or Metarhizium (@ 5g/L).",
+    "chemical": "Dinotefuran 20% SG (@ 0.4 g/L) or Triflumezopyrim 10% SC (@ 0.5 ml/L).",
+    "etl": "5-10 insects per hill.",
+    "severity": "High",
+    "management": "Spray Dinotefuran 20 SG (@ 0.4 g/L) or Triflumezopyrim 10 SC (@ 0.5 ml/L)."
+  },
+  "rice gall midge": {
+    "organism": "Orseolia oryzae - Cecidomyiid gall midge fly",
+    "symptoms": "Maggot feeds at the growing tip inside leaf sheath, transforming the tiller shoot into a hollow, tubular, silvery-white cylindrical gall resembling an onion leaf ('silver shoot' or 'onion shoot'), preventing panicle formation.",
+    "cultural": "Early transplanting to escape peak midge emergence; avoid excessive vegetative nitrogen application; light traps.",
+    "biological": "Conserve platygastrid larval parasitoids (Platygaster oryzae); spray NSKE 5%.",
+    "chemical": "Apply Fipronil 0.3% GR (@ 7 kg/acre) or Chlorpyrifos 10% G (@ 4 kg/acre) or foliar spray Fipronil 5% SC (@ 2 ml/L).",
+    "etl": "1 silver shoot per hill or 5% affected tillers in endemic areas.",
+    "severity": "High (Tiller Sterility)",
+    "management": "Apply Fipronil 0.3% GR (@ 7 kg/acre) in nursery/field or foliar spray Fipronil 5 SC (@ 2 ml/L)."
+  },
+  "rice roller": {
+    "organism": "Cnaphalocrocis medinalis - Rice Leaf Folder / Leaf Roller",
+    "symptoms": "Larvae fold leaves longitudinally with silk threads and feed on green mesophyll tissue inside the tube, leaving longitudinal white papery streaks across the leaf canopy.",
+    "cultural": "Avoid close spacing and shading; avoid excessive nitrogen doses; use bamboo poles to dislodge larvae.",
+    "biological": "Release Trichogramma chilonis egg parasitoids (@ 1.5 lakh/ha) thrice; spray Bacillus thuringiensis (Bt @ 1.5 g/L).",
+    "chemical": "Foliar spray of Chlorantraniliprole 18.5% SC (@ 0.3 ml/L or 60 ml/acre) or Flubendiamide 39.35% SC (@ 0.25 ml/L) or Cartap Hydrochloride 50% SP (@ 2 g/L).",
+    "etl": "1-2 damaged folded leaves per hill with live larvae.",
+    "severity": "High (Photosynthetic Surface Depletion)",
+    "management": "Release Trichogramma (@ 1.5 lakh/ha). Spray Chlorantraniliprole 18.5 SC (@ 0.3 ml/L) or Flubendiamide 39.35 SC (@ 0.25 ml/L)."
+  },
+  "rice caterpillar": {
+    "organism": "Spodoptera mauritia (Rice Swarming Caterpillar)",
+    "symptoms": "Larvae march in massive armies across flooded fields, voraciously devouring seedlings and leaves down to the water surface overnight.",
+    "cultural": "Trench around field bunds with water and kerosene to trap marching caterpillars; release ducks in flooded fields.",
+    "biological": "Spray Bacillus thuringiensis (@ 2 g/L) or Beauveria bassiana (@ 5 g/L).",
+    "chemical": "Dust field with Malathion 5% dust (@ 10 kg/acre) or foliar spray Chlorpyrifos 20% EC (@ 2.5 ml/L) or Emamectin Benzoate 5% SG (@ 0.4 g/L).",
+    "etl": "1-2 caterpillars per square meter.",
+    "severity": "Extreme (Rapid Midnight Defoliation)",
+    "management": "Dig peripheral trenches. Spray Chlorpyrifos 20 EC (@ 2.5 ml/L) or Emamectin Benzoate 5 SG (@ 0.4 g/L) during late afternoon."
+  },
+  "rice skipper": {
+    "organism": "Pelopidas mathias - Hesperiid butterfly larva",
+    "symptoms": "Larva ties leaf edges together forming tubular shelters and feeds from the leaf edge inward, creating irregular scalloped defoliation.",
+    "cultural": "Remove broad-leaved grass weeds along bunds; handpick visible larval tubes.",
+    "biological": "Conserve braconid and chalcid parasitoids; spray NSKE 5%.",
+    "chemical": "Spray Chlorpyrifos 20% EC (@ 2 ml/L) or Quinalphos 25% EC (@ 2 ml/L).",
+    "etl": "1 larva per 10 hills.",
+    "severity": "Moderate",
+    "management": "Handpick folded leaf cases. Spray Quinalphos 25 EC (@ 2 ml/L) if extensive."
+  },
+  "rice stemfly": {
+    "organism": "Atherigona oryzae (Rice Shoot Fly / Stem Fly)",
+    "symptoms": "Maggots feed on growing point of young seedlings within 20 days of germination producing deadhearts.",
+    "cultural": "Sow seeds immediately after monsoon arrival; increase seed rate by 10-15%.",
+    "biological": "Seed treatment with Trichoderma + Pseudomonas.",
+    "chemical": "Seed treatment with Imidacloprid 70% WS (@ 3 g/kg seed) or spray Thiamethoxam 25% WG (@ 0.3 g/L).",
+    "etl": "5% deadhearts in nursery.",
+    "severity": "Moderate",
+    "management": "Seed treatment with Imidacloprid 70 WS (@ 3 g/kg) or spray Thiamethoxam 25 WG (@ 0.3 g/L)."
+  },
+  "rice water weevil": {
+    "organism": "Lissorhoptrus oryzophilus - Semi-aquatic curculionid weevil",
+    "symptoms": "Adults chew narrow longitudinal slit-like scars on upper leaf epidermis; larvae (root-maggots) feed underwater pruning root system leading to stunted yellowed plants that lodge easily.",
+    "cultural": "Drain standing water for 4-5 days to desiccate root-feeding larvae; early uniform planting.",
+    "biological": "Apply Metarhizium anisopliae (@ 5g/L) to soil/water.",
+    "chemical": "Apply Chlorantraniliprole 0.4% GR (@ 4 kg/acre) or Carbofuran 3G (@ 10 kg/acre) into water.",
+    "etl": "1 adult per hill or root pruning noticeable on 10% hills.",
+    "severity": "High (Root System Destruction)",
+    "management": "Intermittent field drainage to suppress larvae. Apply Chlorantraniliprole 0.4 GR (@ 4 kg/acre)."
+  },
+  "tomato early blight": {
+    "organism": "Alternaria solani - Dematiaceous fungal pathogen",
+    "symptoms": "Concentric dark brown to black rings forming characteristic 'target-board' lesions on older lower leaves, surrounded by a distinct chlorotic yellow halo. Causes dark sunken collar rot lesions at stem base and sunken black leathery rot on fruit stem end.",
+    "cultural": "Follow 3-year crop rotation with non-solanaceous crops; maintain wide 60x45 cm plant spacing; drip irrigation instead of overhead sprinklers; remove and burn lower diseased leaves.",
+    "biological": "Seed treatment with Trichoderma harzianum 1% WP (@ 10g/kg); foliar spray with Pseudomonas fluorescens (@ 5g/L) or Ampelomyces quisqualis.",
+    "chemical": "Preventative spray: Mancozeb 75% WP (@ 2.5 g/L) or Chlorothalonil 75% WP (@ 2 g/L). Curative spray upon first spot onset: Azoxystrobin 18.2% + Difenoconazole 11.4% SC (@ 1 ml/L) or Pyraclostrobin 20% WG (@ 1 g/L).",
+    "etl": "First appearance of target-board lesions on bottom foliage.",
+    "severity": "High (Defoliation & Sunscald Trigger)",
+    "management": "Stake plants and mulch soil. Spray Azoxystrobin + Difenoconazole (@ 1 ml/L) or Chlorothalonil 75 WP (@ 2 g/L) on bottom leaf spots."
+  },
+  "tomato late blight": {
+    "organism": "Phytophthora infestans - Oomycete plant pathogen",
+    "symptoms": "Rapidly expanding water-soaked, irregular pale to dark olive lesions on leaves turning purplish-black and dying within days. Under cool humid conditions (RH >90%, 15-20°C), delicate white cottony downy sporulation develops on lesion margins on lower leaf surface; brown firm leathery rot on green fruit.",
+    "cultural": "Avoid sprinkler irrigation; destroy volunteer potato/tomato culls; ensure well-drained raised beds; monitor weather forecast for blight alerts.",
+    "biological": "Prophylactic foliar spray of Trichoderma harzianum (@ 5g/L) before weather turns foggy.",
+    "chemical": "Preventative: Mancozeb 75% WP (@ 2.5 g/L) or Copper Oxychloride 50% WP (@ 2.5 g/L). Curative (Emergency): Cymoxanil 8% + Mancozeb 64% WP (@ 2.5 g/L or 500 g/acre) or Dimethomorph 50% WP (@ 1 g/L) or Metalaxyl-M 4% + Mancozeb 64% WP (Ridomil Gold @ 2.5 g/L).",
+    "etl": "Presence of any single late blight lesion under cold humid weather.",
+    "severity": "Extreme Emergency (Can wipe out entire field within 72 hours)",
+    "management": "Immediately spray Cymoxanil + Mancozeb (@ 2.5 g/L) or Dimethomorph 50 WP (@ 1 g/L) + Mancozeb. Alternate with Ridomil Gold every 7 days."
+  },
+  "potato early blight": {
+    "organism": "Alternaria solani - Fungus",
+    "symptoms": "Concentric rings ('target-board' spots) on potato foliage, progressing from lower canopy upward; causes leaf brown blighting and dark sunken corky tuber rot.",
+    "cultural": "Crop rotation; balanced potash fertilization; avoid water stress.",
+    "biological": "Foliar spray of Trichoderma harzianum (@ 5g/L).",
+    "chemical": "Mancozeb 75% WP (@ 2.5 g/L) or Azoxystrobin 23% SC (@ 1 ml/L) or Difenoconazole 25% EC (@ 0.5 ml/L).",
+    "etl": "1-2 lesions per plant on lower leaves.",
+    "severity": "High",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L) preventatively or Difenoconazole 25 EC (@ 0.5 ml/L) upon spot detection."
+  },
+  "potato late blight": {
+    "organism": "Phytophthora infestans - Oomycete pathogen",
+    "symptoms": "Water-soaked irregular blackish lesions with white cottony mildew under leaf margins in humid weather; brown dry rot inside harvested tubers.",
+    "cultural": "Plant certified disease-free seed tubers; earth-up ridges high to protect tubers; dehaulm canopy 10 days before harvest.",
+    "biological": "Trichoderma harzianum soil and foliar application.",
+    "chemical": "Spray Cymoxanil 8% + Mancozeb 64% WP (@ 2.5 g/L) or Fenamidone 10% + Mancozeb 50% WG (@ 2.5 g/L) or Mandipropamid 23.4% SC (@ 1 ml/L).",
+    "etl": "Single lesion found in field or neighborhood blight alert.",
+    "severity": "Extreme Emergency (Complete Tuber Crop Failure Threat)",
+    "management": "High earthing-up. Spray Cymoxanil + Mancozeb (@ 2.5 g/L) or Mandipropamid 23.4 SC (@ 1 ml/L) without delay."
+  },
+  "tomato bacterial spot": {
+    "organism": "Xanthomonas perforans / Xanthomonas campestris pv. vesicatoria",
+    "symptoms": "Small (2-3 mm) angular dark greasy water-soaked spots on leaves surrounded by yellow halos, causing shot-holes and ragged defoliation; raised black scab-like pustules on fruit.",
+    "cultural": "Use certified pathogen-free seeds; soak seeds in hot water (50°C for 25 min); sanitize nursery trays.",
+    "biological": "Foliar spray of Pseudomonas fluorescens (@ 5g/L) or Bacillus subtilis (@ 5g/L).",
+    "chemical": "Foliar spray of Copper Oxychloride 50% WP (@ 2.5 g/L) tank-mixed with Streptocycline (@ 100 ppm, 1g in 10L water). Repeat at 10-day intervals.",
+    "etl": "First appearance of water-soaked spots in nursery or field.",
+    "severity": "High (Severe Fruit Marketability Loss)",
+    "management": "Spray Copper Oxychloride 50 WP (@ 2.5 g/L) combined with Streptocycline (@ 100 ppm). Avoid overhead watering."
+  },
+  "tomato yellow virus": {
+    "organism": "Tomato Yellow Leaf Curl Virus (TYLCV) - Begomovirus transmitted by Whitefly",
+    "symptoms": "Severe stunting of young shoots; upward curling and cupping of leaflets; intense interveinal chlorosis (bright golden yellowing); flower abortion and bush-like bushy plant habit.",
+    "cultural": "Erect 40-mesh insect-proof nylon nets over nurseries; install yellow sticky traps (@ 15/acre); remove and bury infected stunted plants.",
+    "biological": "Conserve whitefly parasitoids Encarsia formosa; spray Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Control whitefly vector: Seedling root dip with Imidacloprid 17.8% SL (@ 0.5 ml/L). Foliar spray of Diafenthiuron 50% WP (@ 1.2 g/L) or Spiromesifen 22.9% SC (@ 1 ml/L) or Pyriproxyfen 10% EC (@ 1.5 ml/L).",
+    "etl": "Presence of 1 whitefly per plant.",
+    "severity": "Critical (Complete Fruit Loss if infected before flowering)",
+    "management": "Rogue out virus-infected plants immediately. Spray Diafenthiuron 50 WP (@ 1.2 g/L) or Spiromesifen 22.9 SC (@ 1 ml/L) targeting leaf undersides."
+  },
+  "tomato septoria spot": {
+    "organism": "Septoria lycopersici - Fungal pathogen",
+    "symptoms": "Numerous small circular spots (1-3 mm) with light grey centers and dark brown borders; tiny black specks (pycnidia) clearly visible inside grey centers.",
+    "cultural": "Remove lower older leaves; clean stake supports; destroy infected crop debris.",
+    "biological": "Trichoderma harzianum foliar spray (@ 5g/L).",
+    "chemical": "Spray Chlorothalonil 75% WP (@ 2 g/L) or Mancozeb 75% WP (@ 2.5 g/L) or Difenoconazole 25% EC (@ 0.5 ml/L).",
+    "etl": "3-5 spots per leaf on lower foliage.",
+    "severity": "Moderate to High",
+    "management": "Spray Chlorothalonil 75 WP (@ 2 g/L) or Mancozeb 75 WP (@ 2.5 g/L) on bottom canopy."
+  },
+  "tomato mold": {
+    "organism": "Passalora fulva (Cladosporium fulvum) - Fungal leaf mold",
+    "symptoms": "Pale yellow chlorotic patches on upper leaf surface corresponding to velvety olive-green to grayish-brown fungal sporulation patches on lower leaf surface.",
+    "cultural": "Ventilate polyhouses/greenhouses to reduce relative humidity (<85%); space plants widely; prune bottom suckers.",
+    "biological": "Foliar spray of Bacillus subtilis (@ 5g/L).",
+    "chemical": "Spray Copper Hydroxide 77% WP (@ 2 g/L) or Difenoconazole 25% EC (@ 0.5 ml/L) or Boscalid + Pyraclostrobin.",
+    "etl": "Initial velvety sporulation on underside of leaves.",
+    "severity": "Moderate to High (Major Greenhouse Threat)",
+    "management": "Improve ventilation in greenhouse. Spray Copper Hydroxide (@ 2 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "tomato mosaic virus": {
+    "organism": "Tomato Mosaic Virus (ToMV) - Tobamovirus (Mechanically transmitted)",
+    "symptoms": "Mottling with alternating light and dark green areas on leaves; leaflet distortion producing 'shoestring' fern-like foliage; internal browning of fruit wall.",
+    "cultural": "Disinfect hands and pruning shears with 20% skimmed milk or 10% trisodium phosphate; prohibit smoking/chewing tobacco in field; rogue infected plants.",
+    "biological": "Foliar application of Boerhavia diffusa root extract (10%) to induce systemic acquired resistance.",
+    "chemical": "No viricide exists. Apply micronutrient mixture (@ 2 g/L) to sustain plant vigor and reduce mechanical vectoring.",
+    "etl": "First diseased plant observed.",
+    "severity": "High (Rapid Mechanical Spread)",
+    "management": "Strict tool sanitation. Rogue out infected plants. Wash hands with milk solution before handling healthy plants."
+  },
+  "tomato blight": {
+    "organism": "Phytophthora / Alternaria foliar blight complex",
+    "symptoms": "Rapid brown foliar necrosis, branch dieback, and water-soaked leaf blighting.",
+    "cultural": "Clean sanitation, mulch soil, avoid sprinkler irrigation.",
+    "biological": "Trichoderma harzianum (@ 5g/L).",
+    "chemical": "Mancozeb 75% WP (@ 2.5 g/L) + Metalaxyl 8% WP (@ 1.5 g/L).",
+    "etl": "Early foliar spot formation.",
+    "severity": "High",
+    "management": "Apply Mancozeb 75 WP (@ 2.5 g/L) or Cymoxanil + Mancozeb (@ 2.5 g/L)."
+  },
+  "chili anthracnose": {
+    "organism": "Colletotrichum capsici / Colletotrichum truncatum - Fungal pathogen",
+    "symptoms": "Small circular dark sunken lesions on ripe red and green fruits with concentric rings of black acervuli ('dieback' phase causes tender twigs to dry from tip downward, turning straw-colored with black spore dots).",
+    "cultural": "Collect and burn dried twigs after harvest; use disease-free seed; maintain balanced potassium fertilization; avoid overhead irrigation.",
+    "biological": "Seed treatment with Trichoderma viride (@ 10g/kg); foliar spray of Pseudomonas fluorescens (@ 5g/L) at flowering and fruit set.",
+    "chemical": "Seed treatment with Thiram (@ 3g/kg). Foliar spray of Azoxystrobin 23% SC (@ 1 ml/L) or Tebuconazole 25.9% EC (@ 1 ml/L or 200 ml/acre) or Propiconazole 25% EC (@ 1 ml/L) or Copper Oxychloride 50% WP (@ 2.5 g/L).",
+    "etl": "First appearance of dieback on twigs or 2% fruit infection.",
+    "severity": "Critical (Major Export Rejection Factor in Indian Chili)",
+    "management": "Prune dried twigs. Spray Tebuconazole 25.9 EC (@ 1 ml/L) or Azoxystrobin 23 SC (@ 1 ml/L) at fruit formation stage."
+  },
+  "chili curl": {
+    "organism": "Chili Murda / Leaf Curl Complex (Thrips + Yellow Mites + Begomovirus)",
+    "symptoms": "Upward boat-shaped curling of leaves indicates Thrips feeding; downward inverted boat-shaped curling with elongated petioles indicates Yellow Mites; stunted bushy shoots with thickened yellow veins indicates viral infection.",
+    "cultural": "Erect 3 rows of border crops (Maize or Sorghum) to act as windbreak against vector thrips; install blue (for thrips) and yellow (for whiteflies) sticky traps (@ 15 each/acre).",
+    "biological": "Conserve predatory mites (Amblyseius swirskii); spray Neem seed kernel extract (NSKE 5%) or Azadirachtin 10,000 ppm (@ 2 ml/L).",
+    "chemical": "For Thrips + Mite complex: Diafenthiuron 50% WP (@ 1.2 g/L) or Fipronil 5% SC (@ 2 ml/L) or Spiromesifen 22.9% SC (@ 1 ml/L) or Fenpyroximate 5% EC (@ 1.5 ml/L).",
+    "etl": "2 thrips/leaf or 1-2 mites/cm² leaf area.",
+    "severity": "Critical (Murda Complex Devastation)",
+    "management": "Install blue and yellow sticky traps. Spray Diafenthiuron 50 WP (@ 1.2 g/L) or Fipronil 5 SC (@ 2 ml/L) targeting leaf surfaces and undersides."
+  },
+  "chili curl virus": {
+    "organism": "Chilli Leaf Curl Virus (ChiLCV) - Begomovirus transmitted by Bemisia tabaci",
+    "symptoms": "Severe reduction in leaf lamina, thickening and puckering of veins, bushy stunted growth with severe flower drop.",
+    "cultural": "Rogue out infected plants immediately; grow nursery under 40-mesh insect-proof netting.",
+    "biological": "Spray neem oil 10,000 ppm (@ 2 ml/L); release Encarsia parasitoids.",
+    "chemical": "Spray Cyantraniliprole 10.26% OD (@ 1.2 ml/L) or Spiromesifen 22.9% SC (@ 1 ml/L) or Flonicamid 50% WG (@ 0.3 g/L).",
+    "etl": "Presence of whiteflies in crop.",
+    "severity": "Critical",
+    "management": "Erect barrier crops. Control whitefly with Cyantraniliprole 10.26 OD (@ 1.2 ml/L) or Flonicamid 50 WG (@ 0.3 g/L)."
+  },
+  "chili bacterial spot": {
+    "organism": "Xanthomonas euvesicatoria - Bacterium",
+    "symptoms": "Dark brown, greasy water-soaked circular lesions on foliage with chlorotic border, causing premature defoliation and blister-like fruit scabs.",
+    "cultural": "Seed disinfection, hot water treatment, avoid sprinkler irrigation.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Copper Oxychloride 50% WP (@ 2.5 g/L) + Streptocycline (@ 100 ppm, 1g/10L water).",
+    "etl": "Early foliar spotting.",
+    "severity": "High",
+    "management": "Spray Copper Oxychloride 50 WP (@ 2.5 g/L) with Streptocycline (@ 100 ppm)."
+  },
+  "chili cercospora spot": {
+    "organism": "Cercospora capsici - Fungal leaf spot",
+    "symptoms": "Large circular spots with distinctive bleached white to grayish centers and dark reddish-brown margins ('frog-eye' spot appearance).",
+    "cultural": "Maintain good air drainage, collect fallen infected leaves.",
+    "biological": "Trichoderma viride (@ 5g/L).",
+    "chemical": "Mancozeb 75% WP (@ 2.5 g/L) or Carbendazim 50% WP (@ 1 g/L) or Azoxystrobin 23% SC (@ 1 ml/L).",
+    "etl": "5% leaves showing frog-eye lesions.",
+    "severity": "Moderate to High",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L) or Carbendazim 50 WP (@ 1 g/L)."
+  },
+  "chili spot": {
+    "organism": "Alternaria / Colletotrichum foliar spot complex",
+    "symptoms": "Brown necrotic spots on chili leaves and fruit surfaces.",
+    "cultural": "Field sanitation, drip irrigation.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Copper Oxychloride 50 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L).",
+    "etl": "5% affected foliage.",
+    "severity": "Moderate",
+    "management": "Apply Copper Oxychloride 50 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "chili white spot": {
+    "organism": "Cercospora / powdery mildew early bleaching phase",
+    "symptoms": "Bleached whitish-grey lesions with yellow halos on chili foliage.",
+    "cultural": "Prune dense lower foliage for air movement.",
+    "biological": "Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Wettable Sulphur 80% WP (@ 2.5 g/L) or Hexaconazole 5% EC (@ 1 ml/L).",
+    "etl": "Early spot emergence.",
+    "severity": "Moderate",
+    "management": "Spray Wettable Sulphur 80 WP (@ 2.5 g/L) or Hexaconazole 5 EC (@ 1 ml/L)."
+  },
+  "chili nutrition deficiency": {
+    "organism": "Abiotic Physiological Nutrient Deficiency (N, P, K, or Micronutrients Zn/Fe)",
+    "symptoms": "Interveinal chlorosis, pale yellowish foliage, purpling of lower leaf undersides (Phosphorus), or marginal scorching (Potassium).",
+    "cultural": "Conduct soil health card testing; ensure adequate organic matter; correct soil pH.",
+    "biological": "Apply Vesicular Arbuscular Mycorrhiza (VAM @ 10 kg/acre) + Azospirillum bio-fertilizer.",
+    "chemical": "Foliar spray of 19:19:19 NPK soluble fertilizer (@ 5 g/L) + Chelated Zinc EDTA (@ 1 g/L) and Boron (20% @ 1 g/L).",
+    "etl": "Generalized chlorosis across plots.",
+    "severity": "Moderate (Physiological)",
+    "management": "Apply balanced foliar 19:19:19 NPK spray (@ 5 g/L) enriched with Chelated Zinc EDTA (@ 1 g/L)."
+  },
+  "bell pepper": {
+    "organism": "Capsicum annuum var. grossum (Bell Pepper foliage)",
+    "symptoms": "Normal vegetative capsicum foliage.",
+    "cultural": "Scheduled fertigation, staking, and drip irrigation.",
+    "biological": "Prophylactic Trichoderma root application.",
+    "chemical": "No intervention required if foliage is clean.",
+    "etl": "Normal.",
+    "severity": "Normal",
+    "management": "Maintain optimal fertigation and scouting."
+  },
+  "bell pepper spot": {
+    "organism": "Xanthomonas campestris / Cercospora capsici on Capsicum",
+    "symptoms": "Small brown necrotic lesions with chlorotic yellow borders on bell pepper leaves and fruit.",
+    "cultural": "Avoid sprinkler irrigation, ensure drip management.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Copper Oxychloride 50% WP (@ 2.5 g/L) + Streptocycline (@ 100 ppm).",
+    "etl": "First spotting observed.",
+    "severity": "High",
+    "management": "Spray Copper Oxychloride 50 WP (@ 2.5 g/L) with Streptocycline (@ 100 ppm)."
+  },
+  "cotton bacterial blight": {
+    "organism": "Xanthomonas citri pv. malvacearum - Bacterium",
+    "symptoms": "Water-soaked angular leaf spots bounded by veinlets ('angular leaf spot'); brown to dark black lesions extending along veins and girdling main stems and petioles ('blackarm phase'); dark sunken round spots on bolls causing boll rot.",
+    "cultural": "Acid delinting of cotton seed with commercial sulfuric acid (100 ml/kg seed); rogue infected plants; avoid high split nitrogen doses.",
+    "biological": "Seed treatment with Pseudomonas fluorescens (@ 10g/kg seed); foliar spray of cow dung filtrate (5%).",
+    "chemical": "Seed soaking in Streptocycline solution (100 ppm) for 30 minutes. Foliar spray of Copper Oxychloride 50% WP (@ 2.5 g/L or 500 g/acre) plus Streptocycline (@ 100 ppm, 6-8g per 60-80L water) or Plantomycin (@ 1 g/L).",
+    "etl": "5% leaves showing angular spots during squaring stage.",
+    "severity": "High (Blackarm Stem Breakage & Boll Rot)",
+    "management": "Acid delint seed. Spray Copper Oxychloride 50 WP (@ 2.5 g/L) tank-mixed with Streptocycline (@ 100 ppm) at initial angular spot onset."
+  },
+  "cotton curl virus": {
+    "organism": "Cotton Leaf Curl Virus (CLCuV) - Begomovirus vectored by Whitefly",
+    "symptoms": "Thickening and darkening of small veins on underside of leaves; upward or downward cup-shaped curling of leaves; enations (leaf-like outgrowths) on lower side of main veins; severe stunting and boll shedding.",
+    "cultural": "Erect barrier crops of pearl millet / sorghum around cotton fields; eradicate volunteer weed hosts like Abutilon indicum (Kanghi) and Xanthium; plant CLCuV-tolerant Bt hybrids.",
+    "biological": "Install yellow sticky traps (@ 20/acre); spray 5% NSKE or Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Control whitefly vector: Foliar spray of Afidopyropen 50 g/L DC (@ 2 ml/L or 400 ml/acre) or Diafenthiuron 50% WP (@ 1.2 g/L) or Spiromesifen 22.9% SC (@ 1 ml/L) or Flonicamid 50% WG (@ 0.4 g/L).",
+    "etl": "5-10 whiteflies per leaf.",
+    "severity": "Critical (Enation and Total Boll Stunting)",
+    "management": "Destroy weed hosts. Spray Afidopyropen 50 DC (@ 2 ml/L) or Diafenthiuron 50 WP (@ 1.2 g/L) or Flonicamid 50 WG (@ 0.4 g/L) for whitefly control."
+  },
+  "wheat yellow rust": {
+    "organism": "Puccinia striiformis f. sp. tritici - Basidiomycete Stripe Rust",
+    "symptoms": "Bright yellow to citron-yellow powdery uredinial pustules arranged in linear parallel stripes or rows along the leaf veins; in severe epidemics, heads, glumes, and awns become covered with yellow dust.",
+    "cultural": "Sow rust-resistant varieties (HD-2967, HD-3086, DBW-187, DBW-303); timely sowing before November 15; avoid over-irrigation during cool foggy spells.",
+    "biological": "Spray Trichoderma harzianum formulation prophylactically.",
+    "chemical": "Foliar spray of Propiconazole 25% EC (Tilt @ 1 ml/L or 200 ml in 200 L water/acre) or Tebuconazole 25.9% EC (@ 1 ml/L). Repeat after 15 days if stripe rust re-emerges.",
+    "etl": "First notice of yellow pustule stripes on any single plant in field.",
+    "severity": "Extreme Emergency (Wipes out North Indian Gangetic Plains)",
+    "management": "Immediately spray Propiconazole 25 EC (@ 1 ml/L, 200 ml/acre) at first appearance of yellow pustule stripes."
+  },
+  "wheat brown rust": {
+    "organism": "Puccinia triticina (Puccinia recondita) - Leaf Rust fungus",
+    "symptoms": "Small, round to oval, bright orange-brown powdery pustules scattered randomly (not in stripes) on the upper surface of leaves, shedding brown urediniospores.",
+    "cultural": "Use resistant cultivars; balanced N:P:K fertilization (avoid excess N).",
+    "biological": "Prophylactic application of bio-fungicide formulations.",
+    "chemical": "Spray Propiconazole 25% EC (@ 1 ml/L) or Mancozeb 75% WP (@ 2 g/L) or Tebuconazole 25.9% EC (@ 1 ml/L).",
+    "etl": "1-2 pustules per leaf on 10% of plants.",
+    "severity": "High",
+    "management": "Spray Propiconazole 25 EC (@ 1 ml/L) or Tebuconazole 25.9 EC (@ 1 ml/L) at first symptom."
+  },
+  "wheat blackrust": {
+    "organism": "Puccinia graminis f. sp. tritici - Stem Rust fungus",
+    "symptoms": "Elongated, large reddish-brown to dark chocolate-brown pustules rupturing the epidermis on stems, leaf sheaths, and glumes; pustules produce powdery dark brown spores, later turning black (teliospores).",
+    "cultural": "Grow stem-rust resistant cultivars; avoid late sowing.",
+    "biological": "Trichoderma bio-fungicide application.",
+    "chemical": "Spray Propiconazole 25% EC (@ 1 ml/L) or Tebuconazole 25.9% EC (@ 1 ml/L) or Mancozeb 75% WP (@ 2.5 g/L).",
+    "etl": "Single stem pustule observed in warm climates.",
+    "severity": "Critical (Severe Stem Lodging and Shriveled Grain)",
+    "management": "Apply Propiconazole 25 EC (@ 1 ml/L) or Tebuconazole 25.9 EC (@ 1 ml/L)."
+  },
+  "wheat blast": {
+    "organism": "Magnaporthe oryzae pathotype Triticum - Fungal pathogen",
+    "symptoms": "Premature bleaching and silvering of wheat spikes/heads while the lower canopy and stem remain green; elliptical grayish-brown lesions on leaves.",
+    "cultural": "Quarantine surveillance; use certified blast-free seed; avoid seed movement from blast-infected zones.",
+    "biological": "Seed treatment with Pseudomonas fluorescens (@ 10g/kg).",
+    "chemical": "Seed treatment with Thiram (@ 3g/kg). Foliar spray of Tebuconazole 25% + Trifloxystrobin 50% WG (@ 0.4 g/L) or Propiconazole 25% EC (@ 1 ml/L) at heading.",
+    "etl": "Quarantine alert - zero tolerance.",
+    "severity": "Critical (Quarantine Threat)",
+    "management": "Foliar spray with Tebuconazole + Trifloxystrobin (@ 0.4 g/L) or Propiconazole 25 EC (@ 1 ml/L) at heading."
+  },
+  "wheat mildew": {
+    "organism": "Blumeria graminis f. sp. tritici - Powdery Mildew fungus",
+    "symptoms": "White to grayish-white powdery or cottony fungal patches on upper surface of leaves and stems, turning yellowish-brown with tiny black cleistothecia as leaves senesce.",
+    "cultural": "Avoid dense sowing; avoid excess nitrogen; ensure adequate sun exposure.",
+    "biological": "Foliar spray of Ampelomyces quisqualis or Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Foliar spray of Propiconazole 25% EC (@ 1 ml/L) or Hexaconazole 5% EC (@ 1 ml/L) or Wettable Sulphur 80% WP (@ 2.5 g/L).",
+    "etl": "Powdery patches covering 5% of leaf area on lower canopy.",
+    "severity": "High",
+    "management": "Spray Propiconazole 25 EC (@ 1 ml/L) or Wettable Sulphur 80 WP (@ 2.5 g/L)."
+  },
+  "wheat septoria": {
+    "organism": "Zymoseptoria tritici / Parastagonospora nodorum - Septoria Leaf Blotch",
+    "symptoms": "Irregular brownish-yellow elongated lesions on leaves with conspicuous tiny black specks (pycnidia) embedded inside dead tissue.",
+    "cultural": "Crop rotation with non-cereal crops; deep burial of wheat straw.",
+    "biological": "Trichoderma seed treatment.",
+    "chemical": "Spray Propiconazole 25% EC (@ 1 ml/L) or Azoxystrobin 23% SC (@ 1 ml/L) or Chlorothalonil 75% WP (@ 2 g/L).",
+    "etl": "5% leaf area affected on lower foliage.",
+    "severity": "High",
+    "management": "Spray Propiconazole 25 EC (@ 1 ml/L) or Chlorothalonil 75 WP (@ 2 g/L)."
+  },
+  "wheat blight": {
+    "organism": "Bipolaris sorokiniana - Spot Blotch / Foliar Blight",
+    "symptoms": "Small brown oval spots enlarging into dark brown necrotic blotches with yellow margins on leaves under warm humid post-anthesis conditions.",
+    "cultural": "Seed treatment; zero-tillage sowing; balanced fertilization with potash.",
+    "biological": "Pseudomonas fluorescens seed treatment (@ 10g/kg).",
+    "chemical": "Propiconazole 25% EC (@ 1 ml/L) or Mancozeb 75% WP (@ 2.5 g/L).",
+    "etl": "Spot blotch lesions on flag leaf and penultimate leaf.",
+    "severity": "High (Gangetic Plains Terminal Heat Blight)",
+    "management": "Apply Propiconazole 25 EC (@ 1 ml/L) at boot leaf to heading stage."
+  },
+  "wheat commonrootrot": {
+    "organism": "Bipolaris sorokiniana / Fusarium spp. - Root Rot Complex",
+    "symptoms": "Dark brown to black necrotic lesions on subcrown internode and crown roots; premature ripening of tillers resulting in whiteheads with shriveled grain.",
+    "cultural": "Crop rotation with legumes; avoid deep planting; balanced fertilization.",
+    "biological": "Seed treatment with Trichoderma viride (@ 10g/kg).",
+    "chemical": "Seed treatment with Carboxin 37.5% + Thiram 37.5% WS (@ 2.5 g/kg seed).",
+    "etl": "10% seedling stand loss.",
+    "severity": "High",
+    "management": "Seed treatment with Carboxin + Thiram (@ 2.5 g/kg) and avoid planting too deeply."
+  },
+  "wheat fusariumheadblight": {
+    "organism": "Fusarium graminearum - Head Blight / Scab",
+    "symptoms": "Bleaching of individual spikelets or entire heads while stem is green; pinkish-orange fungal spore masses at glume margins; grain chalky, shriveled (tombstones) contaminated with deoxynivalenol (DON) mycotoxin.",
+    "cultural": "Avoid wheat following corn in crop rotation; destroy crop residue; monitor rainfall during anthesis.",
+    "biological": "Bacillus subtilis foliar spray at early flowering.",
+    "chemical": "Spray Tebuconazole 25.9% EC (@ 1 ml/L) or Metconazole or Propiconazole (@ 1 ml/L) precisely during early flowering (50% anthesis).",
+    "etl": "First bleached spikelet during wet anthesis.",
+    "severity": "Critical (Mycotoxin Poisoning Threat)",
+    "management": "Spray Tebuconazole 25.9 EC (@ 1 ml/L) strictly at 50% anthesis to protect emerging heads."
+  },
+  "wheat smut": {
+    "organism": "Ustilago tritici - Loose Smut fungus",
+    "symptoms": "Every spikelet of the wheat ear is transformed into a loose, powdery mass of dark olive-black smut spores; delicate membrane ruptures early, leaving only the bare naked rachis.",
+    "cultural": "Solar heat seed treatment (soak seeds in water for 4 hrs, then spread in blazing June sun for 4 hrs); use certified disease-free seed.",
+    "biological": "Trichoderma seed treatment.",
+    "chemical": "Mandatory seed treatment with Carboxin 75% WP (@ 2.5 g/kg) or Tebuconazole 2% DS (@ 1.5 g/kg seed).",
+    "etl": "Zero tolerance for certified seed.",
+    "severity": "Critical (Total Loss of Infected Spikes)",
+    "management": "Solar seed treatment in summer or chemical seed dressing with Carboxin (@ 2.5 g/kg) or Tebuconazole."
+  },
+  "wheat tanspot": {
+    "organism": "Pyrenophora tritici-repentis - Ascomycete fungus",
+    "symptoms": "Small tan to brown spots with distinctive tiny yellow chlorotic halos, coalescing into extensive necrotic foliar blighting.",
+    "cultural": "Bury stubbles; rotate with broadleaf non-host crops.",
+    "biological": "Trichoderma foliar spray.",
+    "chemical": "Propiconazole 25% EC (@ 1 ml/L) or Azoxystrobin 23% SC (@ 1 ml/L).",
+    "etl": "1-2 spots per leaf.",
+    "severity": "Moderate to High",
+    "management": "Spray Propiconazole 25 EC (@ 1 ml/L) or Azoxystrobin 23 SC (@ 1 ml/L)."
+  },
+  "wheat aphid": {
+    "organism": "Sitobion avenae / Rhopalosiphum padi (Wheat Aphid / Oat Bird-cherry Aphid)",
+    "symptoms": "Dense colonies of green aphids clustering on tender leaves, shoots, and inside emerging ears/panicles, sucking phloem sap causing grain shriveling; copious honeydew.",
+    "cultural": "Balanced nitrogen application; conserve predatory ladybird beetles.",
+    "biological": "Conserve Coccinella septempunctata (ladybird beetles @ 1 beetle/plant) and Chrysoperla carnea; spray Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Spray Thiamethoxam 25% WG (@ 0.25 g/L or 50 g/acre) or Dimethoate 30% EC (@ 1.5 ml/L) or Imidacloprid 17.8% SL (@ 0.3 ml/L).",
+    "etl": "5-10 aphids per ear/shoot during earhead stage.",
+    "severity": "High (Sap Exhaustion & Grain Shriveling)",
+    "management": "Conserve ladybird beetles. Spray Thiamethoxam 25 WG (@ 0.25 g/L) or Imidacloprid 17.8 SL (@ 0.3 ml/L)."
+  },
+  "wheat mite": {
+    "organism": "Petrobia latens - Brown Wheat Mite",
+    "symptoms": "Foliage develops mottled yellow and silvery speckles, drying up from tip downward giving field a scorched or frosted appearance during dry spells.",
+    "cultural": "Provide immediate light irrigation to wash mites off canopy; deep plowing.",
+    "biological": "Conserve predatory mites; spray Wettable Sulphur 80% WP (@ 2.5 g/L).",
+    "chemical": "Spray Propargite 57% EC (@ 2 ml/L) or Spiromesifen 22.9% SC (@ 1 ml/L) or Dimethoate 30% EC (@ 1.5 ml/L).",
+    "etl": "10-15 mites per leaf during tillering.",
+    "severity": "High (Drought-Aggravated Damage)",
+    "management": "Apply immediate irrigation. Spray Wettable Sulphur 80 WP (@ 2.5 g/L) or Propargite 57 EC (@ 2 ml/L)."
+  },
+  "wheat sawfly": {
+    "organism": "Cephus cinctus - Stem Sawfly",
+    "symptoms": "Larvae tunnel inside wheat stem internodes, hollowing stem and girdling interior base, causing lodging of mature stems right before harvest.",
+    "cultural": "Plant solid-stemmed wheat varieties; deep fall tillage to expose overwintering cocoons; swathing lodged grain.",
+    "biological": "Conserve braconid parasitoids (Bracon cephi).",
+    "chemical": "Foliar insecticides have limited efficacy due to internal tunneling; border spray with Chlorpyrifos 20% EC (@ 2 ml/L) during adult flight.",
+    "etl": "10% of stems cut or lodged.",
+    "severity": "High (Harvest Lodging Loss)",
+    "management": "Plant solid-stemmed cultivars and deep plow stubble after harvest."
+  },
+  "wheat blossom midge": {
+    "organism": "Sitodiplosis mosellana - Orange Wheat Blossom Midge",
+    "symptoms": "Orange maggots feed directly on developing wheat kernels inside glumes, causing stunted, deformed, and shriveled kernels.",
+    "cultural": "Sow resistant cultivars; rotate with non-susceptible crops.",
+    "biological": "Conserve platygastrid parasitoids (Macroglenes penetrans).",
+    "chemical": "Spray Chlorpyrifos 20% EC (@ 2 ml/L) or Lambdacyhalothrin 5% EC (@ 0.5 ml/L) at dusk during adult flight at heading.",
+    "etl": "1 adult midge per 4-5 wheat heads at heading.",
+    "severity": "High (Direct Kernel Destruction)",
+    "management": "Apply Lambdacyhalothrin 5 EC (@ 0.5 ml/L) at dusk during heading."
+  },
+  "groundnut early spot": {
+    "organism": "Cercospora arachidicola - Early Tikka Leaf Spot",
+    "symptoms": "Circular reddish-brown to dark brown spots (1-10 mm) on upper leaf surface, surrounded by a prominent bright yellow chlorotic halo. Causes heavy premature defoliation.",
+    "cultural": "Crop rotation with cereals (sorghum, pearl millet); deep plowing of crop residues; timely sowing.",
+    "biological": "Seed treatment with Trichoderma viride 1% WP (@ 10g/kg); foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of Carbendazim 12% + Mancozeb 63% WP (Saaf @ 2 g/L) or Tebuconazole 25.9% EC (@ 1 ml/L) or Chlorothalonil 75% WP (@ 2 g/L) or Hexaconazole 5% EC (@ 1.5 ml/L).",
+    "etl": "First spotting observed on lower leaves at 30-40 days after sowing.",
+    "severity": "High (Severe Premature Defoliation)",
+    "management": "Spray Carbendazim + Mancozeb (Saaf @ 2 g/L) or Tebuconazole 25.9 EC (@ 1 ml/L) at first spot appearance."
+  },
+  "groundnut late spot": {
+    "organism": "Phaeoisariopsis personata (Cercosporidium personatum) - Late Tikka Spot",
+    "symptoms": "Nearly circular, smaller, darker black spots without yellow halos or with faint diffuse halo, with abundant carbon-black cushion-like conidial fruiting bodies on lower leaf surface.",
+    "cultural": "Destroy crop residues; avoid continuous groundnut mono-cropping; balanced potassium application.",
+    "biological": "Spray NSKE 5% or Trichoderma viride foliar suspension.",
+    "chemical": "Spray Tebuconazole 25.9% EC (@ 1 ml/L) or Mancozeb 75% WP (@ 2.5 g/L) or Difenoconazole 25% EC (@ 0.5 ml/L).",
+    "etl": "5% leaf area affected on lower foliage.",
+    "severity": "High (Severe Pod Yield Loss)",
+    "management": "Spray Tebuconazole 25.9 EC (@ 1 ml/L) or Hexaconazole 5 EC (@ 1.5 ml/L) targeting lower leaf surface."
+  },
+  "groundnut rust": {
+    "organism": "Puccinia arachidis - Groundnut Foliar Rust",
+    "symptoms": "Numerous small, circular, orange-brown pustules on lower leaf surface, rupturing to expose reddish-brown powdery urediniospores; leaves curl, become necrotic, and dry like parchment paper.",
+    "cultural": "Sow resistant varieties; practice crop rotation; remove volunteer groundnut plants.",
+    "biological": "Foliar spray of Pseudomonas fluorescens (@ 5g/L) or Verticillium lecanii.",
+    "chemical": "Spray Hexaconazole 5% EC (@ 1.5 ml/L) or Mancozeb 75% WP (@ 2.5 g/L) or Tebuconazole 25.9% EC (@ 1 ml/L) or Wettable Sulphur 80% WP (@ 2.5 g/L).",
+    "etl": "1-2 rust pustules per leaflet on lower canopy.",
+    "severity": "High (Leaves Parch and Desiccate)",
+    "management": "Spray Hexaconazole 5 EC (@ 1.5 ml/L) or Tebuconazole 25.9 EC (@ 1 ml/L) at first pustule detection."
+  },
+  "groundnut early rust": {
+    "organism": "Puccinia arachidis (Early Rust Phase)",
+    "symptoms": "Orange-yellow pinhead pustules on leaf undersides progressing to brown powder.",
+    "cultural": "Sanitation, crop rotation with sorghum.",
+    "biological": "Spray NSKE 5%.",
+    "chemical": "Mancozeb 75 WP (@ 2.5 g/L) or Hexaconazole 5 EC (@ 1.5 ml/L).",
+    "etl": "Initial pustule emergence.",
+    "severity": "High",
+    "management": "Apply Hexaconazole 5 EC (@ 1.5 ml/L) or Mancozeb 75 WP (@ 2.5 g/L)."
+  },
+  "groundnut nutrition deficiency": {
+    "organism": "Abiotic Deficiency (Iron Chlorosis / Zinc / Calcium deficiency)",
+    "symptoms": "Interveinal yellowing of young leaves turning bleached ivory-white (Iron chlorosis on calcareous soils); poor pod filling / empty pods ('pops' due to Calcium deficiency).",
+    "cultural": "Apply Gypsum (@ 200 kg/acre) at 40-45 days after sowing (flowering/pegging) to supply calcium and sulfur.",
+    "biological": "Soil application of VAM mycorrhiza and PSB bio-fertilizers.",
+    "chemical": "For iron chlorosis: Foliar spray of Ferrous Sulphate (FeSO4 @ 5 g/L) + Citric acid (@ 1 g/L). For zinc: Zinc Sulphate (@ 2 g/L).",
+    "etl": "Yellowing of terminal leaves across rows.",
+    "severity": "Moderate (Pod Filling Defect)",
+    "management": "Apply Gypsum (@ 200 kg/acre) at pegging. Foliar spray Ferrous Sulphate (5 g/L) + Citric acid (1 g/L) for chlorosis."
+  },
+  "citrus canker": {
+    "organism": "Xanthomonas citri subsp. citri - Bacterial Pathogen",
+    "symptoms": "Small, raised, blister-like corky tan-to-brown craterous lesions with rough erupted surfaces surrounded by a distinct oily or water-soaked yellow halo; lesions occur on leaves, twigs, thorns, and fruit rind causing severe fruit drop.",
+    "cultural": "Prune severely cankered twigs before monsoon rains and burn them; establish windbreaks (Sesbania / Casuarina) to prevent wind-driven rain splashes.",
+    "biological": "Foliar spray of neem cake extract (5%) or Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Spray Copper Oxychloride 50% WP (@ 2.5 g/L or 250 g in 100 L water) mixed with Streptocycline (@ 100 ppm, 10g in 100 L water). Apply at flush initiation and repeat after fruit set.",
+    "etl": "First appearance of raised corky spots on young flush leaves.",
+    "severity": "Critical (Severe Export Rejection & Canker Fruit Drop)",
+    "management": "Prune cankered twigs. Spray Copper Oxychloride 50 WP (@ 2.5 g/L) combined with Streptocycline (@ 100 ppm) during new leaf flush."
+  },
+  "citrus black spot": {
+    "organism": "Phyllosticta citricarpa (Guignardia citricarpa) - Ascomycete fungus",
+    "symptoms": "Hard round black spots with depressed grey centers and dark reddish-brown elevated borders on fruit rind and leaves; causes premature fruit drop and unsightly rinds.",
+    "cultural": "Remove fallen diseased citrus leaves from orchard floor; maintain tree canopy aeration through balanced pruning.",
+    "biological": "Trichoderma viride prophylactic spray.",
+    "chemical": "Foliar spray of Copper Oxychloride 50% WP (@ 2.5 g/L) or Azoxystrobin 23% SC (@ 1 ml/L) or Mancozeb 75% WP (@ 2.5 g/L) at petal fall and repeat at 4-week intervals.",
+    "etl": "Presence of black spots on mature fruit or young foliage.",
+    "severity": "High (Quarantine Rejection for Citrus Export)",
+    "management": "Clear orchard floor debris. Spray Copper Oxychloride 50 WP (@ 2.5 g/L) or Azoxystrobin 23 SC (@ 1 ml/L) starting at petal fall."
+  },
+  "phyllocnistis citrella stainton": {
+    "organism": "Phyllocnistis citrella - Citrus Leaf Miner",
+    "symptoms": "Tiny larvae mine inside young tender leaf cuticles, creating serpentine silvery translucent zigzag galleries; leaves curl, distort, and provide major entry wounds for Citrus Canker bacteria.",
+    "cultural": "Synchronize flush by balanced pruning; avoid staggered flushes; prune off water sprouts/suckers.",
+    "biological": "Conserve eulophid parasitoids (Cirrospilus ingenuus); spray 5% NSKE or Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Foliar spray during active flush emergence: Thiamethoxam 25% WG (@ 0.3 g/L) or Imidacloprid 17.8% SL (@ 0.5 ml/L) or Spinosad 45% SC (@ 0.3 ml/L).",
+    "etl": "5% of young tender flush leaves mined.",
+    "severity": "High (Major Canker Precursor)",
+    "management": "Spray Imidacloprid 17.8 SL (@ 0.5 ml/L) or Thiamethoxam 25 WG (@ 0.3 g/L) during emergence of new leaf flush."
+  },
+  "panonchus citri mcgregor": {
+    "organism": "Panonychus citri - Citrus Red Mite",
+    "symptoms": "Mites suck chlorophyll from upper leaf surfaces, producing pale stippling or scratching that coalesces into a dull gray/bronze foliage; heavy attacks cause twig dieback and fruit dropping.",
+    "cultural": "Maintain adequate tree irrigation; preserve natural predatory phytoseiid mites.",
+    "biological": "Spray Wettable Sulphur 80% WP (@ 2.5 g/L) or horticultural mineral oil (1-2%).",
+    "chemical": "Spray Propargite 57% EC (@ 2 ml/L) or Spiromesifen 22.9% SC (@ 1 ml/L) or Fenazaquin 10% EC (@ 1.5 ml/L).",
+    "etl": "2-3 mites per leaf.",
+    "severity": "High",
+    "management": "Spray Wettable Sulphur 80 WP (@ 2.5 g/L) or Spiromesifen 22.9 SC (@ 1 ml/L) on both leaf surfaces."
+  },
+  "toxoptera citricidus": {
+    "organism": "Toxoptera citricida - Brown Citrus Aphid",
+    "symptoms": "Dense black/brown aphid colonies curling young tender shoot tips, secreting copious honeydew leading to thick sooty mold; primary vector of Citrus Tristeza Virus (CTV).",
+    "cultural": "Prune water shoots; avoid excessive nitrogen.",
+    "biological": "Conserve ladybird beetles and syrphid fly larvae; spray Neem oil (@ 3 ml/L).",
+    "chemical": "Foliar spray of Imidacloprid 17.8% SL (@ 0.3 ml/L) or Thiamethoxam 25% WG (@ 0.25 g/L) or Acetamiprid 20% SP (@ 0.2 g/L).",
+    "etl": "5-10% of new flushes infested.",
+    "severity": "Critical (Primary CTV Vector)",
+    "management": "Spray Imidacloprid 17.8 SL (@ 0.3 ml/L) or Thiamethoxam 25 WG (@ 0.25 g/L) on new shoots."
+  },
+  "toxoptera aurantii": {
+    "organism": "Toxoptera aurantii - Black Citrus Aphid",
+    "symptoms": "Colonies cluster on young flushes and buds; leaf cupping, curling, and sooty mold.",
+    "cultural": "Prune suckers; balance fertilizer.",
+    "biological": "Chrysoperla carnea predators; neem extract.",
+    "chemical": "Imidacloprid 17.8% SL (@ 0.3 ml/L) or Dimethoate 30% EC (@ 1.5 ml/L).",
+    "etl": "5% infested flushes.",
+    "severity": "Moderate to High",
+    "management": "Spray Imidacloprid 17.8 SL (@ 0.3 ml/L) or Dimethoate 30 EC (@ 1.5 ml/L)."
+  },
+  "banana sigatoka": {
+    "organism": "Pseudocercospora musae / P. fijiensis (Yellow & Black Sigatoka)",
+    "symptoms": "Small yellowish-green streaks running parallel to leaf veins, developing into dark reddish-brown elliptical spots with sunken bleached grayish centers and yellow halos, coalescing to destroy the photosynthetic canopy.",
+    "cultural": "De-leafing (cut off and burn infected leaves or bury them leaf-surface down); maintain proper plantation drainage; keep spacing 1.8x1.8 m.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L) foliar spray mixed with 1% agricultural mineral oil.",
+    "chemical": "Spray Propiconazole 25% EC (@ 1 ml/L) or Carbendazim 50% WP (@ 1 g/L) or Mancozeb 75% WP (@ 2.5 g/L) emulsified with 1% mineral spray oil (Banana spray oil).",
+    "etl": "First spotting visible on 3rd or 4th youngest open leaf.",
+    "severity": "High (Premature Bunch Ripening)",
+    "management": "Prompt de-leafing of necrotic foliage. Spray Propiconazole 25 EC (@ 1 ml/L) mixed with 1% mineral spray oil."
+  },
+  "banana panama": {
+    "organism": "Fusarium oxysporum f. sp. cubense (Race 1 / Tropical Race 4 - TR4)",
+    "symptoms": "Yellowing of lower older leaves starting from leaf margins and progressing to petiole, forming a protective skirt of dead leaves hanging around pseudostem; longitudinal splitting of pseudostem base; reddish-brown vascular discoloration inside corm.",
+    "cultural": "Strict farm biosecurity; plant tissue culture plants certified TR4-free; avoid waterlogging; apply bio-primed farmyard manure.",
+    "biological": "Apply Trichoderma viride / reesei (ICAR-FUSICONT formulation @ 2.5 kg/plant enriched in FYM) into planting pits.",
+    "chemical": "Soil drenching around pseudostem with Carbendazim 50% WP (@ 2 g/L) or inject pseudostem with 2% Carbendazim solution.",
+    "etl": "Single symptomatic plant detected in plantation.",
+    "severity": "Critical (Devastating Soil-Borne Vascular Wilt)",
+    "management": "Isolate infected mats. Apply Trichoderma-enriched FYM (ICAR-FUSICONT). Drench soil with Carbendazim 50 WP (@ 2 g/L)."
+  },
+  "banana cordana": {
+    "organism": "Cordana musae - Fungal pathogen",
+    "symptoms": "Large oval to diamond-shaped pale brown necrotic spots with prominent bright yellow zigzag borders, typically starting from leaf margins and expanding inward.",
+    "cultural": "Remove and destroy dried necrotic leaves; avoid water stagnation in root zone.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of Mancozeb 75% WP (@ 2 g/L) or Copper Oxychloride 50% WP (@ 2.5 g/L) at early symptom onset.",
+    "etl": "Lesions spreading to functional leaves.",
+    "severity": "Moderate to High",
+    "management": "Prune severely affected leaf margins. Spray Mancozeb 75 WP (@ 2 g/L) or Copper Oxychloride 50 WP (@ 2.5 g/L)."
+  },
+  "banana moko": {
+    "organism": "Ralstonia solanacearum (Race 2) - Bacterial Wilt",
+    "symptoms": "Pale green/yellow wilting of inner younger leaves; pseudostem vascular bundles show dark brown/black discoloration; white bacterial ooze exudes when infected vascular strands are immersed in clear water.",
+    "cultural": "Strict domestic quarantine; eradicate infected mats immediately by injecting glyphosate or burning in situ; sanitize machetes with 10% bleach.",
+    "biological": "Soil application of antagonistic Bacillus subtilis.",
+    "chemical": "Soil disinfection with bleaching powder (30 kg/ha); no curative chemical therapy once systemic.",
+    "etl": "Quarantine organism - zero tolerance.",
+    "severity": "Critical (Quarantine Pathogen)",
+    "management": "Immediate eradication of infected plant mat with herbicide. Disinfect cutting tools with 10% sodium hypochlorite."
+  },
+  "banana bract mosaic virus": {
+    "organism": "Banana Bract Mosaic Virus (BBrMV) - Potyvirus vectored by Aphids",
+    "symptoms": "Spindle-shaped reddish-brown to dark purple streaks on leaf petioles, pseudostem, and flower bracts; bunches fail to emerge properly or are choked.",
+    "cultural": "Use certified virus-indexed tissue culture plantlets; rogue infected stools immediately.",
+    "biological": "Conserve aphid predators; spray neem extract.",
+    "chemical": "Control aphid vector (Pentalonia nigronervosa): Spray Dimethoate 30% EC (@ 1.5 ml/L) or Imidacloprid 17.8% SL (@ 0.3 ml/L).",
+    "etl": "Presence of mosaic symptoms on bracts or leaf sheaths.",
+    "severity": "High (Bunch Choking)",
+    "management": "Rogue out infected plants. Spray Dimethoate 30 EC (@ 1.5 ml/L) or Imidacloprid 17.8 SL (@ 0.3 ml/L) for aphid vector."
+  },
+  "banana insectpest": {
+    "organism": "Odoiporus longicollis (Banana Pseudostem Weevil / Rhizome Weevil)",
+    "symptoms": "Small pinhead feeding punctures on pseudostem oozing transparent jelly-like sap; grubs bore inside pseudostem making honeycombed galleries, causing stem breakage during bunch filling.",
+    "cultural": "Field sanitation; use longitudinal split pseudostem traps (@ 25-50 traps/acre) to collect and destroy adult weevils manually.",
+    "biological": "Apply entomopathogenic fungus Beauveria bassiana (@ 5g/L or swab trunk); entomopathogenic nematodes (Heterorhabditis).",
+    "chemical": "Trunk injection or stem swabbing: Chlorpyrifos 20% EC (@ 2.5 ml/L) or Carbofuran 3G (@ 20g/plant applied in leaf axils).",
+    "etl": "5 adult weevils per pseudostem trap.",
+    "severity": "High (Pseudostem Collapse)",
+    "management": "Place split pseudostem traps (25/acre). Swab trunk with Chlorpyrifos 20 EC (@ 2.5 ml/L) or Beauveria bassiana (@ 5g/L)."
+  },
+  "banana pestalotiopsis": {
+    "organism": "Pestalotiopsis palmarum - Secondary Fungal Leaf Spot",
+    "symptoms": "Ash-grey oval to irregular lesions with dark margins on weakened or sunburnt banana leaves.",
+    "cultural": "Avoid plant sunburn; maintain windbreaks.",
+    "biological": "Trichoderma spray (@ 5g/L).",
+    "chemical": "Spray Copper Oxychloride 50% WP (@ 2.5 g/L) or Mancozeb 75% WP (@ 2 g/L).",
+    "etl": "Presence on functional leaves.",
+    "severity": "Moderate",
+    "management": "Spray Copper Oxychloride 50 WP (@ 2.5 g/L) or Mancozeb 75 WP (@ 2 g/L)."
+  },
+  "corn northern blight": {
+    "organism": "Exserohilum turcicum (Setosphaeria turcica) - Turcicum Leaf Blight",
+    "symptoms": "Large, elongated, cigar-shaped grayish-green to tan lesions (2.5 to 15 cm long) with smooth margins on leaf blades; under moist conditions, olive-green fungal sporulation covers lesion surfaces.",
+    "cultural": "Crop rotation with non-graminaceous crops; deep plowing of crop residues; plant tolerant corn hybrids.",
+    "biological": "Trichoderma viride seed and foliar spray.",
+    "chemical": "Foliar spray of Azoxystrobin 18.2% + Difenoconazole 11.4% SC (@ 1 ml/L or 200 ml/acre) or Mancozeb 75% WP (@ 2.5 g/L) at tasseling/silking.",
+    "etl": "1-2 cigar lesions per leaf at tasseling.",
+    "severity": "High (Severe Leaf Area Scorch)",
+    "management": "Spray Azoxystrobin + Difenoconazole (@ 1 ml/L) or Mancozeb 75 WP (@ 2.5 g/L) upon appearance of cigar-shaped lesions."
+  },
+  "corn blight": {
+    "organism": "Exserohilum turcicum / Bipolaris maydis - Foliar Blight Complex",
+    "symptoms": "Elongated tan lesions on maize leaf blades progressing into complete foliar blighting.",
+    "cultural": "Bury crop residues, balanced fertilization.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Mancozeb 75% WP (@ 2.5 g/L) or Azoxystrobin 23% SC (@ 1 ml/L).",
+    "etl": "Early lesion onset on mid-canopy leaves.",
+    "severity": "High",
+    "management": "Apply Mancozeb 75 WP (@ 2.5 g/L) or Azoxystrobin 23 SC (@ 1 ml/L)."
+  },
+  "corn southern blight": {
+    "organism": "Bipolaris maydis (Cochliobolus heterostrophus) - Maydis Leaf Blight",
+    "symptoms": "Small, oval, spindle-shaped light brown lesions with purplish margins, bounded by leaf veins; smaller and more numerous than northern blight.",
+    "cultural": "Rotate with legumes, plant resistant varieties.",
+    "biological": "Trichoderma seed treatment.",
+    "chemical": "Spray Mancozeb 75% WP (@ 2.5 g/L) or Propiconazole 25% EC (@ 1 ml/L).",
+    "etl": "5% leaf area affected.",
+    "severity": "Moderate to High",
+    "management": "Spray Propiconazole 25 EC (@ 1 ml/L) or Mancozeb 75 WP (@ 2.5 g/L)."
+  },
+  "corn gray spot": {
+    "organism": "Cercospora zeae-maydis - Gray Leaf Spot",
+    "symptoms": "Distinctly rectangular, narrow tan-to-gray lesions strictly delineated by leaf veins ('stripes' or 'ribbons' parallel to veins).",
+    "cultural": "Crop rotation, reduce residue on soil surface, choose resistant hybrids.",
+    "biological": "Bacillus subtilis foliar application.",
+    "chemical": "Spray Pyraclostrobin 20% WG (@ 1 g/L) or Azoxystrobin + Difenoconazole (@ 1 ml/L).",
+    "etl": "Lesions on third leaf below ear leaf at silking.",
+    "severity": "High",
+    "management": "Spray Azoxystrobin + Difenoconazole (@ 1 ml/L) or Pyraclostrobin 20 WG (@ 1 g/L)."
+  },
+  "corn rust": {
+    "organism": "Puccinia sorghi - Common Corn Rust",
+    "symptoms": "Small, powdery, oval to elongate golden-brown to cinnamon-brown pustules on both upper and lower leaf surfaces.",
+    "cultural": "Plant resistant hybrids; plant early.",
+    "biological": "Prophylactic bio-fungicide.",
+    "chemical": "Spray Mancozeb 75% WP (@ 2.5 g/L) or Propiconazole 25% EC (@ 1 ml/L) or Hexaconazole 5% EC (@ 1 ml/L).",
+    "etl": "5-10 pustules per leaf before silking.",
+    "severity": "Moderate to High",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L) or Propiconazole 25 EC (@ 1 ml/L)."
+  },
+  "corn borer": {
+    "organism": "Chilo partellus (Spotted Stem Borer) / Spodoptera frugiperda (Fall Armyworm)",
+    "symptoms": "Parallel pinhole 'shot-holes' on expanding leaves; extensive frass (sawdust-like excreta) inside central leaf whorl; tassel breakage and ear boring.",
+    "cultural": "Intercrop with cowpea or desmodium; deploy pheromone traps (@ 5/acre); whorl application of sand + lime mixture (9:1).",
+    "biological": "Release Trichogramma chilonis (@ 1.5 lakh/ha); apply Bacillus thuringiensis (Bt @ 2 g/L) or Metarhizium anisopliae into whorls.",
+    "chemical": "Whorl application of Chlorantraniliprole 18.5% SC (@ 0.4 ml/L) or Emamectin Benzoate 5% SG (@ 0.4 g/L or 80 g/acre) or Spinetoram 11.7% SC (@ 0.5 ml/L).",
+    "etl": "5% infested whorls in seedling stage, 10% in mid-whorl stage.",
+    "severity": "Critical (Severe Cob and Stand Loss)",
+    "management": "Whorl drop application of Emamectin Benzoate 5 SG (@ 0.4 g/L) or Chlorantraniliprole 18.5 SC (@ 0.4 ml/L)."
+  },
+  "fall armyworm": {
+    "organism": "Spodoptera frugiperda - Polyphagous Invasive Pest",
+    "symptoms": "Large ragged feeding holes, skeletonized leaves, heavy accumulating moist sawdust-like fecal frass in central whorls; inverted 'Y' suture on head.",
+    "cultural": "Deep summer plowing; handpick egg masses; whorl application of sand or wood ash.",
+    "biological": "Release egg parasitoids Trichogramma pretiosum (@ 50,000/acre); spray Nomuraea rileyi or Metarhizium rileyi (@ 5g/L).",
+    "chemical": "Spray Chlorantraniliprole 18.5% SC (@ 0.4 ml/L) or Emamectin Benzoate 5% SG (@ 0.4 g/L) or Spinetoram 11.7% SC (@ 0.5 ml/L) directing spray into whorls.",
+    "etl": "5% damaged whorls in early stage; 10% in mid-whorl.",
+    "severity": "Critical (Invasive Emergency)",
+    "management": "Direct spray into central leaf whorl: Chlorantraniliprole 18.5 SC (@ 0.4 ml/L) or Emamectin Benzoate 5 SG (@ 0.4 g/L)."
+  },
+  "faw symptoms": {
+    "organism": "Spodoptera frugiperda (FAW) Feeding Damage",
+    "symptoms": "Windowpane feeding on leaf lamina, chewed whorl leaves, frass clumping.",
+    "cultural": "Handpicking, intercropping with pulses.",
+    "biological": "Bt formulations (@ 2 g/L), neem cake.",
+    "chemical": "Emamectin Benzoate 5 SG (@ 0.4 g/L) or Chlorantraniliprole 18.5 SC (@ 0.4 ml/L).",
+    "etl": "5% damaged plants.",
+    "severity": "High",
+    "management": "Whorl application of Emamectin Benzoate 5 SG (@ 0.4 g/L)."
+  },
+  "maize spot": {
+    "organism": "Bipolaris / Cercospora foliar spots on Maize",
+    "symptoms": "Chlorotic to necrotic spotting across maize leaf lamina.",
+    "cultural": "Crop sanitation, balanced fertilizer.",
+    "biological": "Trichoderma spray.",
+    "chemical": "Mancozeb 75 WP (@ 2.5 g/L) or Azoxystrobin 23 SC (@ 1 ml/L).",
+    "etl": "5% leaf surface spotted.",
+    "severity": "Moderate",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L)."
+  },
+  "maize streak virus": {
+    "organism": "Maize Streak Virus (MSV) - Mastrevirus transmitted by Leafhopper Cicadulina mbila",
+    "symptoms": "Very small circular chlorotic spots on young leaves developing into continuous uniform narrow yellowish-white chlorotic stripes parallel to leaf veins.",
+    "cultural": "Control volunteer grasses; rogue early infected plants; plant streak-resistant maize hybrids.",
+    "biological": "Conserve predatory spiders and mirids.",
+    "chemical": "Seed treatment with Imidacloprid 70% WS (@ 4 g/kg seed) to control leafhopper vector; spray Thiamethoxam 25% WG (@ 0.3 g/L).",
+    "etl": "Presence of Cicadulina leafhoppers.",
+    "severity": "High (Stunting & Barren Cobs)",
+    "management": "Seed treatment with Imidacloprid 70 WS. Spray Thiamethoxam 25 WG (@ 0.3 g/L) for vector leafhopper control."
+  },
+  "sugarcane brown spot": {
+    "organism": "Cercospora longipes - Fungal pathogen",
+    "symptoms": "Reddish-brown narrow oval spots with yellow halo on both leaf surfaces, coalescing into large necrotic blights.",
+    "cultural": "Ensure field drainage; burn trash after harvest in heavily infested fields.",
+    "biological": "Trichoderma soil and foliar application.",
+    "chemical": "Foliar spray of Mancozeb 75% WP (@ 2.5 g/L) or Carbendazim 50% WP (@ 1 g/L).",
+    "etl": "10% leaf area spotted.",
+    "severity": "Moderate",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L) or Carbendazim 50 WP (@ 1 g/L)."
+  },
+  "sugarcane grassy shoot": {
+    "organism": "Sugarcane Grassy Shoot Phytoplasma (GSD) transmitted by Aphids / Leafhoppers",
+    "symptoms": "Proliferation of dense, thin, narrow chlorotic tillers from the base of the stool giving it a broom-like or grassy tuft appearance ('grassy shoot'); leaves turn completely bleached yellowish-white without cane formation.",
+    "cultural": "Hot Water Treatment (HWT) of seed cane setts at 50°C for 2 hours or Aerated Steam Therapy (AST) at 54°C for 1 hour; rogue infected grassy stools.",
+    "biological": "Conserve syrphids and ladybirds.",
+    "chemical": "Control insect vectors: Spray Dimethoate 30% EC (@ 1.5 ml/L) or Imidacloprid 17.8% SL (@ 0.3 ml/L).",
+    "etl": "Single diseased stool observed.",
+    "severity": "Critical (Zero Cane Yield from Grassy Stools)",
+    "management": "Hot water treat setts before planting. Rogue out grassy stools. Spray Dimethoate 30 EC (@ 1.5 ml/L) for vector control."
+  },
+  "apple scab": {
+    "organism": "Venturia inaequalis - Ascomycete fungus",
+    "symptoms": "Velvety olive-green to dull dark brown circular spots with indistinct margins on leaves; spots turn dark brown, corky, and scabbed; on fruit, lesions become dark, sunken, corky with cracked fissures.",
+    "cultural": "Post-harvest orchard sanitation: spray 5% urea on fallen leaves in autumn to accelerate leaf decomposition and eliminate overwintering pseudothecia.",
+    "biological": "Prophylactic application of Bacillus subtilis or Trichoderma viride.",
+    "chemical": "Silver tip to green tip stage: Mancozeb 75% WP (@ 2.5 g/L) or Captan 50% WP (@ 2 g/L). Petal fall / fruit development: Difenoconazole 25% EC (@ 0.5 ml/L) or Hexaconazole 5% EC (@ 1 ml/L) or Kresoxim-methyl 44.3% SC (@ 0.5 ml/L).",
+    "etl": "Mills Infection Period criteria met (leaf wetness hours vs temperature).",
+    "severity": "Critical (Primary Export Quality Rejection in Apple)",
+    "management": "Autumn 5% urea spray on fallen litter. Spray Difenoconazole 25 EC (@ 0.5 ml/L) or Kresoxim-methyl 44.3 SC (@ 0.5 ml/L) from petal fall."
+  },
+  "apple rust": {
+    "organism": "Gymnosporangium juniperi-virginianae - Cedar-Apple Rust Fungus",
+    "symptoms": "Bright yellow-orange circular spots on upper leaf surface, exuding sweet drops; later, raised orange cushions develop tiny tube-like cluster cups (aecia) on lower leaf surface.",
+    "cultural": "Eradicate alternate host red cedar (Juniperus virginiana) within 1-2 km radius of apple orchards.",
+    "biological": "Neem oil / bio-fungicide prophylactic spray.",
+    "chemical": "Spray Myclobutanil 10% WP (@ 0.5 g/L) or Mancozeb 75% WP (@ 2.5 g/L) or Tebuconazole 25.9% EC (@ 1 ml/L) at pink bud through petal fall.",
+    "etl": "First orange spots on leaves.",
+    "severity": "Moderate to High",
+    "management": "Remove nearby cedar alternate hosts. Spray Myclobutanil 10 WP (@ 0.5 g/L) or Mancozeb 75 WP (@ 2.5 g/L) from pink bud stage."
+  },
+  "grape black rot": {
+    "organism": "Guignardia bidwellii (Phyllosticta ampelicida) - Fungal Pathogen",
+    "symptoms": "Circular reddish-brown leaf spots with dark margins and tiny black pycnidia; infected berries turn purple-brown, shrivel, and dry into hard, wrinkled black mummies that remain attached to bunch.",
+    "cultural": "Prune out mummified berries and infected canes during dormancy; ensure good canopy sunlight penetration.",
+    "biological": "Trichoderma spray on pruned vine cuts.",
+    "chemical": "Spray Mancozeb 75% WP (@ 2.5 g/L) or Difenoconazole 25% EC (@ 0.5 ml/L) or Azoxystrobin 23% SC (@ 1 ml/L) or Myclobutanil 10% WP (@ 0.5 g/L) before bloom and at pea-sized berry stage.",
+    "etl": "Single leaf lesion or mummified berry.",
+    "severity": "High (Mummified Berry Cluster Destruction)",
+    "management": "Destroy mummified berry clusters. Spray Mancozeb 75 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L) before flowering and after fruit set."
+  },
+  "colomerus vitis": {
+    "organism": "Colomerus vitis - Grape Leaf Blister Mite / Erineum Mite",
+    "symptoms": "Upper leaf surface forms prominent convex blisters or galls; corresponding lower leaf cavities are filled with dense, felt-like, whitish to yellowish-brown erinea (hairs).",
+    "cultural": "Prune heavily blistered canes in winter; destroy pruned material.",
+    "biological": "Conserve predatory phytoseiid mites; spray Wettable Sulphur 80% WP (@ 2.5 g/L).",
+    "chemical": "Spray Wettable Sulphur 80% WP (@ 2.5 g/L or 2.5 kg/ha) or Propargite 57% EC (@ 2 ml/L) or Spiromesifen 22.9% SC (@ 1 ml/L).",
+    "etl": "5% leaves with blister erinea.",
+    "severity": "Moderate",
+    "management": "Spray Wettable Sulphur 80 WP (@ 2.5 g/L) or Spiromesifen 22.9 SC (@ 1 ml/L) during early shoot growth."
+  },
+  "viteus vitifoliae": {
+    "organism": "Daktulosphaira vitifoliae (Grape Phylloxera)",
+    "symptoms": "Yellowish galls on leaf undersides; nodule-like galls on young roots (nodosities) and hook-like necrotic swellings on older roots (tuberosities) causing vine death.",
+    "cultural": "Graft commercial scions onto phylloxera-resistant rootstocks (e.g. 110R, 1103P, SO4); flood vineyard where feasible.",
+    "biological": "Soil bio-agents.",
+    "chemical": "Soil drenching with Imidacloprid 17.8% SL (@ 0.5 ml/L); resistant rootstocks are the only permanent control.",
+    "etl": "Quarantine detection.",
+    "severity": "Critical (Vascular Root Destruction)",
+    "management": "Use certified phylloxera-resistant rootstocks. Soil drench with Imidacloprid 17.8 SL (@ 0.5 ml/L)."
+  },
+  "cauliflower blackrot": {
+    "organism": "Xanthomonas campestris pv. campestris - Bacterium",
+    "symptoms": "V-shaped chlorotic to yellow lesions emerging from leaf margins with base of 'V' pointing inward toward leaf veins; leaf veins turn distinctly black or dark brown; vascular browning in curds and stems.",
+    "cultural": "Hot water seed treatment (50°C for 30 minutes); 3-year crop rotation without cruciferous crops; rogue infected plants.",
+    "biological": "Seed treatment with Pseudomonas fluorescens (@ 10g/kg).",
+    "chemical": "Foliar spray of Copper Oxychloride 50% WP (@ 2.5 g/L) mixed with Streptocycline (@ 100 ppm, 1g/10L water). Repeat at 10-day intervals.",
+    "etl": "First margin V-shaped yellowing noticed in nursery or field.",
+    "severity": "Critical (V-Shaped Black Vein Necrosis)",
+    "management": "Hot water seed treatment (50°C for 30 min). Spray Copper Oxychloride 50 WP (@ 2.5 g/L) with Streptocycline (@ 100 ppm)."
+  },
+  "cauliflower bacterial spot rot": {
+    "organism": "Pseudomonas syringae pv. maculicola / Pectobacterium carotovorum",
+    "symptoms": "Small water-soaked translucent spots on leaves and soft slimy brown wet rot on cauliflower curds with foul odor.",
+    "cultural": "Avoid curd injury during weeding; harvest curds during dry hours; avoid sprinkler irrigation.",
+    "biological": "Seedling dip with Trichoderma viride (@ 10g/L).",
+    "chemical": "Spray Copper Oxychloride 50% WP (@ 2.5 g/L) + Streptocycline (@ 100 ppm).",
+    "etl": "Initial soft spots on curds.",
+    "severity": "High (Curd Rot & Market Rejection)",
+    "management": "Avoid waterlogging. Spray Copper Oxychloride 50 WP (@ 2.5 g/L) with Streptocycline (@ 100 ppm)."
+  },
+  "cauliflower downy mildew": {
+    "organism": "Peronospora parasitica (Hyaloperonospora brassicae) - Oomycete",
+    "symptoms": "Angular purplish-brown to yellow lesions on upper leaf surface corresponding to white fluffy downy mildew growth on lower leaf surface; curd internal browning.",
+    "cultural": "Proper nursery drainage; avoid dense sowing; rotate with solanaceous crops.",
+    "biological": "Foliar spray of Trichoderma harzianum (@ 5g/L).",
+    "chemical": "Spray Metalaxyl 8% + Mancozeb 64% WP (Ridomil Gold @ 2.5 g/L) or Copper Oxychloride 50% WP (@ 2.5 g/L) or Dimethomorph 50% WP (@ 1 g/L).",
+    "etl": "White downy growth on 5% of nursery seedlings.",
+    "severity": "High (Nursery Stand Failure)",
+    "management": "Spray Metalaxyl + Mancozeb (Ridomil Gold @ 2.5 g/L) or Dimethomorph 50 WP (@ 1 g/L)."
+  },
+  "radish black spot": {
+    "organism": "Alternaria brassicae / A. brassicicola - Fungal Leaf Spot",
+    "symptoms": "Dark brown to black circular zonate spots with concentric rings on radish leaves, siliquae, and exposed roots.",
+    "cultural": "Clean certified seeds, burn infected radish tops.",
+    "biological": "Trichoderma seed treatment.",
+    "chemical": "Spray Mancozeb 75% WP (@ 2.5 g/L) or Iprodione 50% WP (@ 2 g/L).",
+    "etl": "3-5 spots per leaf.",
+    "severity": "Moderate to High",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L) or Iprodione 50 WP (@ 2 g/L)."
+  },
+  "radish downey mildew": {
+    "organism": "Peronospora parasitica on Raphanus sativus",
+    "symptoms": "Yellow angular patches on upper leaf surface with white downy fungal growth on lower surface.",
+    "cultural": "Wide row spacing, ensure drainage.",
+    "biological": "Pseudomonas fluorescens spray.",
+    "chemical": "Ridomil Gold (@ 2.5 g/L) or Mancozeb 75 WP (@ 2.5 g/L).",
+    "etl": "Early downy sporulation.",
+    "severity": "Moderate to High",
+    "management": "Spray Ridomil Gold (@ 2.5 g/L) or Mancozeb 75 WP (@ 2.5 g/L)."
+  },
+  "radish mosaic": {
+    "organism": "Radish Mosaic Virus (RaMV) transmitted by Flea Beetles",
+    "symptoms": "Interspersed light green and dark green mosaic patterns, blistering, and leaf distortion.",
+    "cultural": "Rogue out infected plants; clean weeds.",
+    "biological": "Neem oil spray (@ 3 ml/L).",
+    "chemical": "Control flea beetle vectors: Spray Cypermethrin 10% EC (@ 1 ml/L) or Imidacloprid 17.8% SL (@ 0.3 ml/L).",
+    "etl": "Vector presence.",
+    "severity": "Moderate",
+    "management": "Control vector flea beetles with Imidacloprid 17.8 SL (@ 0.3 ml/L)."
+  },
+  "radish flea beetle": {
+    "organism": "Phyllotreta cruciferae - Flea Beetle",
+    "symptoms": "Adult beetles chew numerous small round 'shot-holes' in cotyledons and tender leaves.",
+    "cultural": "Install yellow sticky traps; cover beds with floating row covers.",
+    "biological": "Spray Beauveria bassiana (@ 5g/L) or Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Spray Thiamethoxam 25% WG (@ 0.3 g/L) or Cypermethrin 10% EC (@ 1 ml/L).",
+    "etl": "1-2 beetles per seedling.",
+    "severity": "Moderate to High",
+    "management": "Spray Thiamethoxam 25 WG (@ 0.3 g/L) or Cypermethrin 10 EC (@ 1 ml/L)."
+  },
+  "papaya ringspot": {
+    "organism": "Papaya Ringspot Virus (PRSV) - Potyvirus vectored by Aphids",
+    "symptoms": "Severe foliar yellow mosaic and blistered deformation with leaf lamina reduction ('shoestring' appearance); dark green oily water-soaked streaks on petioles; conspicuous dark green concentric rings on fruit skin.",
+    "cultural": "Isolate papaya orchards from cucurbits (alternate aphid hosts); rogue and burn virus-infected trees immediately; grow border barrier of maize or sorghum.",
+    "biological": "Spray NSKE 5% or Neem oil 10,000 ppm (@ 2 ml/L).",
+    "chemical": "No chemical cures the virus. Control aphid vectors with Dimethoate 30% EC (@ 1.5 ml/L) or Imidacloprid 17.8% SL (@ 0.3 ml/L); apply zinc and boron micronutrients.",
+    "etl": "First tree with ringspot symptoms.",
+    "severity": "Critical (Devastating Papaya Plantation Loss)",
+    "management": "Eradicate infected trees. Plant border barrier of maize. Spray Imidacloprid 17.8 SL (@ 0.3 ml/L) for aphid control."
+  },
+  "papaya bacterialspot": {
+    "organism": "Pseudomonas caricapapayae / Erwinia spp.",
+    "symptoms": "Angular water-soaked leaf spots turning brown and causing blighting; petiole cankers.",
+    "cultural": "Sanitation, avoid plant wounds.",
+    "biological": "Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Copper Oxychloride 50% WP (@ 2.5 g/L) + Streptocycline (@ 100 ppm).",
+    "etl": "First spotting.",
+    "severity": "High",
+    "management": "Spray Copper Oxychloride 50 WP (@ 2.5 g/L) with Streptocycline (@ 100 ppm)."
+  },
+  "cashew red rust": {
+    "organism": "Cephaleuros virescens - Parasitic green alga",
+    "symptoms": "Circular, velvety, reddish-brown to rust-colored raised algal spots on upper leaf surfaces and green twigs.",
+    "cultural": "Prune overcrowded overlapping branches to enhance sunlight penetration; improve orchard drainage.",
+    "biological": "Prophylactic bio-fungicides.",
+    "chemical": "Spray Copper Oxychloride 50% WP (@ 2.5 g/L) or Bordeaux mixture (1%) before new flush.",
+    "etl": "Algal spots on 10% of flush foliage.",
+    "severity": "Moderate",
+    "management": "Prune dense canopies for sunlight. Spray Copper Oxychloride 50 WP (@ 2.5 g/L) or 1% Bordeaux mixture."
+  },
+  "cassava mosaic": {
+    "organism": "Cassava Mosaic Geminivirus (CMG) vectored by Bemisia tabaci",
+    "symptoms": "Severe mosaic mottling with chlorotic pale yellow and green patches, leaflet distortion, puckering, and stunting of root tubers.",
+    "cultural": "Use certified virus-free stem cuttings; rogue infected plants; plant resistant cassava varieties (e.g. Sree Padmanabha).",
+    "biological": "Conserve whitefly natural enemies; spray neem oil.",
+    "chemical": "Foliar spray of Imidacloprid 17.8% SL (@ 0.3 ml/L) or Diafenthiuron 50% WP (@ 1.2 g/L) to control whitefly vector.",
+    "etl": "Vector presence on cuttings.",
+    "severity": "Critical (Root Yield Collapse)",
+    "management": "Use virus-free disease-free stem cuttings. Spray Imidacloprid 17.8 SL (@ 0.3 ml/L) for whitefly control."
+  },
+  "cassava brown spot": {
+    "organism": "Cercospora henningsii - Brown Leaf Spot",
+    "symptoms": "Uniform circular brown spots with distinct dark margins on older lower cassava leaves.",
+    "cultural": "Collect and destroy fallen leaf litter; ensure proper plant spacing.",
+    "biological": "Trichoderma spray.",
+    "chemical": "Spray Mancozeb 75% WP (@ 2.5 g/L) or Copper Oxychloride 50% WP (@ 2.5 g/L).",
+    "etl": "Spotting moving into upper canopy.",
+    "severity": "Moderate",
+    "management": "Spray Mancozeb 75 WP (@ 2.5 g/L) or Copper Oxychloride 50 WP (@ 2.5 g/L)."
+  },
+  "aphids": {
+    "organism": "Aphidoidea (Aphis gossypii, Myzus persicae, Lipaphis erysimi, Rhopalosiphum)",
+    "symptoms": "Dense insect colonies clustering on tender shoot tips, buds, and leaf undersides; causes upward leaf curling, crinkling, stunted terminal growth; abundant secretion of clear sticky honeydew attracting thick black sooty mold fungus.",
+    "cultural": "Install yellow sticky traps (@ 15-20/acre) at crop canopy level; avoid excessive vegetative nitrogen fertilization; balance irrigation.",
+    "biological": "Conserve predatory ladybird beetles (Coccinella septempunctata), green lacewings (Chrysoperla carnea), and syrphid fly larvae; spray Verticillium lecanii (@ 5g/L) or Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Foliar spray of Imidacloprid 17.8% SL (@ 0.3 ml/L or 60 ml/acre) or Thiamethoxam 25% WG (@ 0.3 g/L or 60 g/acre) or Acetamiprid 20% SP (@ 0.2 g/L) or Flonicamid 50% WG (@ 0.3 g/L).",
+    "etl": "10-15 aphids per shoot or 10% infested plants.",
+    "severity": "High (Rapid Multi-Generation Vector Threat)",
+    "management": "Install yellow sticky traps (15/acre). Spray Imidacloprid 17.8 SL (@ 0.3 ml/L) or Thiamethoxam 25 WG (@ 0.3 g/L) or Flonicamid 50 WG (@ 0.3 g/L)."
+  },
+  "cicadellidae": {
+    "organism": "Cicadellidae (Leafhoppers, Jassids - Amrasca biguttula, Nephotettix virescens)",
+    "symptoms": "Nymphs and adults feed on leaf undersides, injecting toxic saliva: leaf margins turn yellow, curl downward, and become reddish-brown ('hopperburn'); vectors of destructive phytoplasmas and viruses.",
+    "cultural": "Install yellow sticky traps (@ 10-15/acre); maintain clean field borders free of alternate weeds; timely early sowing.",
+    "biological": "Conserve predatory mirid bugs (Cyrtorhinus) and spiders; spray Beauveria bassiana 1.15% WP (@ 5g/L) or NSKE 5%.",
+    "chemical": "Foliar spray of Dinotefuran 20% SG (@ 0.4 g/L) or Flonicamid 50% WG (@ 0.3 g/L or 60 g/acre) or Thiamethoxam 25% WG (@ 0.3 g/L) or Diafenthiuron 50% WP (@ 1.2 g/L).",
+    "etl": "1-2 jassids per leaf during vegetative phase.",
+    "severity": "High (Hopperburn & Vector Transmission)",
+    "management": "Install yellow sticky traps. Spray Dinotefuran 20 SG (@ 0.4 g/L) or Flonicamid 50 WG (@ 0.3 g/L) or Thiamethoxam 25 WG (@ 0.3 g/L)."
+  },
+  "thrips": {
+    "organism": "Thripidae (Scirtothrips dorsalis, Thrips tabaci, Frankliniella schultzei)",
+    "symptoms": "Silvery mottled or bleached patches with tiny dark fecal specks on leaf surfaces; leaf curling, crinkling of margins, and necrotic scarring on young fruit; major vector of Tomato Spotted Wilt Virus (TSWV) and Bud Necrosis.",
+    "cultural": "Install blue sticky traps (@ 15/acre) at crop height; use silver reflective mulches; overhead sprinkler irrigation can wash thrips off plants.",
+    "biological": "Conserve predatory minute pirate bugs (Orius spp.) and phytoseiid mites; spray Lecanicillium lecanii (@ 5g/L) or Neem seed kernel extract (NSKE 5%).",
+    "chemical": "Foliar spray of Spinosad 45% SC (@ 0.3 ml/L or 60 ml/acre) or Fipronil 5% SC (@ 2 ml/L or 400 ml/acre) or Spinetoram 11.7% SC (@ 0.5 ml/L) or Cyantraniliprole 10.26% OD (@ 1.2 ml/L).",
+    "etl": "3-5 thrips per leaf or flower.",
+    "severity": "High (Major Viral Vector & Foliar Distortion)",
+    "management": "Install blue sticky traps (15/acre). Spray Spinosad 45 SC (@ 0.3 ml/L) or Fipronil 5 SC (@ 2 ml/L) or Spinetoram 11.7 SC (@ 0.5 ml/L)."
+  },
+  "miridae": {
+    "organism": "Miridae (Plant Bugs / Capsid Bugs - Adelphocoris, Apolygus lucorum, Campylomma)",
+    "symptoms": "Piercing-sucking feeding punctures produce small necrotic spots that drop out, creating ragged 'shot-holes' in expanding leaves; causes flower and square blighting and fruit shedding.",
+    "cultural": "Eliminate broadleaf weeds on field margins; shake plants over white tray for early detection.",
+    "biological": "Conserve predatory reduviid assassin bugs and spiders; spray Beauveria bassiana (@ 5g/L).",
+    "chemical": "Foliar spray of Flonicamid 50% WG (@ 0.3 g/L) or Thiamethoxam 25% WG (@ 0.3 g/L) or Clothianidin 50% WDG (@ 0.25 g/L).",
+    "etl": "1-2 mirid bugs per plant at flowering/bud stage.",
+    "severity": "Moderate to High",
+    "management": "Spray Flonicamid 50 WG (@ 0.3 g/L) or Thiamethoxam 25 WG (@ 0.3 g/L) if bugs exceed threshold during squaring."
+  },
+  "army worm": {
+    "organism": "Spodoptera litura (Tobacco Caterpillar / Cutworm) & Spodoptera frugiperda",
+    "symptoms": "Young larvae feed gregariously skeletonizing leaves; grown larvae devour entire leaves, petioles, and tender shoots nocturnal feeding, leaving plants completely defoliated overnight.",
+    "cultural": "Deep summer plowing to expose pupae to predatory birds; install sex pheromone traps (@ 5 traps/acre); collection and destruction of golden egg masses and gregarious young larvae.",
+    "biological": "Release egg parasitoid Trichogramma chilonis (@ 1.5 lakh/ha); foliar spray of SlNPV (Spodoptera litura Nuclear Polyhedrosis Virus @ 250 LE/ha) or Bacillus thuringiensis (Bt @ 2 g/L).",
+    "chemical": "Foliar spray of Emamectin Benzoate 5% SG (@ 0.4 g/L or 80 g/acre) or Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) or Novaluron 10% EC (@ 1.5 ml/L) or Spinetoram 11.7% SC (@ 0.5 ml/L).",
+    "etl": "1 egg mass per 10 meters row or 1-2 larvae per plant.",
+    "severity": "Severe (Rapid Nocturnal Defoliator)",
+    "management": "Install pheromone traps (5/acre). Spray Emamectin Benzoate 5 SG (@ 0.4 g/L) or Chlorantraniliprole 18.5 SC (@ 0.3 ml/L) during late evening hours."
+  },
+  "beet army worm": {
+    "organism": "Spodoptera exigua - Noctuid moth larva",
+    "symptoms": "Larvae web leaves together and feed within, skeletonizing foliage and burrowing into crowns and fruit.",
+    "cultural": "Pheromone trapping, weed management.",
+    "biological": "Bt formulations (@ 2 g/L) or Spodoptera NPV.",
+    "chemical": "Emamectin Benzoate 5% SG (@ 0.4 g/L) or Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) or Spinetoram 11.7% SC (@ 0.5 ml/L).",
+    "etl": "1 larva per plant.",
+    "severity": "High",
+    "management": "Spray Emamectin Benzoate 5 SG (@ 0.4 g/L) or Spinetoram 11.7 SC (@ 0.5 ml/L)."
+  },
+  "cabbage army worm": {
+    "organism": "Mamestra brassicae - Noctuid defoliator",
+    "symptoms": "Extensive leaf chewing and deep tunneling into brassica heads.",
+    "cultural": "Summer plowing, hand collection of egg masses.",
+    "biological": "Bacillus thuringiensis (@ 2 g/L).",
+    "chemical": "Emamectin Benzoate 5% SG (@ 0.4 g/L) or Flubendiamide 39.35% SC (@ 0.25 ml/L).",
+    "etl": "1 larva per plant.",
+    "severity": "High",
+    "management": "Spray Emamectin Benzoate 5 SG (@ 0.4 g/L) or Bt formulations."
+  },
+  "black cutworm": {
+    "organism": "Agrotis ipsilon - Noctuid Cutworm",
+    "symptoms": "Nocturnal larvae cut young seedling stems right at the soil line, causing seedlings to fall over and wilt.",
+    "cultural": "Deep plowing; keep fields weed-free 2 weeks before planting; place collar around seedling stems.",
+    "biological": "Apply entomopathogenic nematodes (Steinernema carpocapsae) to soil.",
+    "chemical": "Soil drenching around seedlings with Chlorpyrifos 20% EC (@ 3 ml/L) or broadcast poison bait (Wheat bran 10 kg + Jaggery 1 kg + Chlorpyrifos 20 EC 500 ml).",
+    "etl": "2 cut seedlings per 100 plants.",
+    "severity": "High (Seedling Cutting Stand Loss)",
+    "management": "Broadcast poison bait (bran + jaggery + Chlorpyrifos) in evening or drench seedling collar with Chlorpyrifos 20 EC (@ 3 ml/L)."
+  },
+  "large cutworm": {
+    "organism": "Agrotis spp. - Subterranean Cutworm",
+    "symptoms": "Severed stems at soil level, hollowed root crowns.",
+    "cultural": "Deep tillage, clean cultivation.",
+    "biological": "Steinernema nematode soil drench.",
+    "chemical": "Poison bait or Chlorpyrifos 20% EC (@ 3 ml/L).",
+    "etl": "2% cut plants.",
+    "severity": "High",
+    "management": "Apply poison bait or soil drench around plant collars."
+  },
+  "yellow cutworm": {
+    "organism": "Agrotis segetum - Turnip moth cutworm",
+    "symptoms": "Seedling cutting at ground level, root crown chewing.",
+    "cultural": "Weed eradication before planting.",
+    "biological": "Metarhizium anisopliae soil application.",
+    "chemical": "Chlorpyrifos 20 EC (@ 3 ml/L) or baiting.",
+    "etl": "2% seedling loss.",
+    "severity": "High",
+    "management": "Soil drench seedling rows with Chlorpyrifos 20 EC (@ 3 ml/L)."
+  },
+  "blister beetle": {
+    "organism": "Mylabris pustulata / Epicauta spp. - Meloid Blister Beetle",
+    "symptoms": "Adult beetles feed voraciously on flowers, floral buds, and young tender pods of pulses, cotton, and vegetables, drastically reducing pod/fruit set.",
+    "cultural": "Handpick adult beetles using protective rubber gloves in early morning when sluggish (beetles secrete cantharidin which blisters skin); light traps.",
+    "biological": "Conserve ground beetles.",
+    "chemical": "Dust field with Malathion 5% dust (@ 10 kg/acre) or foliar spray Quinalphos 25% EC (@ 2 ml/L) or Chlorpyrifos 20% EC (@ 2.5 ml/L).",
+    "etl": "1 beetle per plant at flowering.",
+    "severity": "High (Destroys Flower Blooms)",
+    "management": "Handpick with gloves in early morning. Spray Quinalphos 25 EC (@ 2 ml/L) or Chlorpyrifos 20 EC (@ 2.5 ml/L)."
+  },
+  "legume blister beetle": {
+    "organism": "Mylabris phalerata - Meloid beetle",
+    "symptoms": "Voracious feeding on legume flowers, leading to total blossom drop.",
+    "cultural": "Manual collection with gloves in morning; light traps.",
+    "biological": "Conserve natural predators.",
+    "chemical": "Dust Malathion 5% dust or spray Quinalphos 25 EC (@ 2 ml/L).",
+    "etl": "1 beetle per 5 plants.",
+    "severity": "High",
+    "management": "Manual collection or spray Quinalphos 25 EC (@ 2 ml/L) during bloom."
+  },
+  "red spider": {
+    "organism": "Tetranychus urticae (Two-Spotted Spider Mite) - Acari",
+    "symptoms": "Fine yellow speckling or stippling on upper leaf surface, progressing to gray or bronze scorching; dense fine webbing covers leaf undersides and shoot tips under hot, dry conditions.",
+    "cultural": "Avoid water stress; overhead sprinkler irrigation to knock down mite colonies; wash dust from crop borders.",
+    "biological": "Conserve predatory mites (Phytoseiulus persimilis, Neoseiulus californicus); spray Wettable Sulphur 80% WP (@ 2.5 g/L).",
+    "chemical": "Foliar spray of Spiromesifen 22.9% SC (@ 1 ml/L or 200 ml/acre) or Propargite 57% EC (@ 2 ml/L) or Diafenthiuron 50% WP (@ 1.2 g/L) or Fenazaquin 10% EC (@ 1.5 ml/L).",
+    "etl": "5-10 mites per leaf or first fine webbing noticed.",
+    "severity": "High (Rapid Webbing & Leaf Bronzing)",
+    "management": "Avoid dry conditions. Spray Spiromesifen 22.9 SC (@ 1 ml/L) or Propargite 57 EC (@ 2 ml/L) or Wettable Sulphur 80 WP (@ 2.5 g/L)."
+  },
+  "longlegged spider mite": {
+    "organism": "Eupodium / Petrobia spider mite",
+    "symptoms": "Mottled leaf yellowing, bronzing, and foliar desiccation during dry spells.",
+    "cultural": "Sprinkler washing, adequate irrigation.",
+    "biological": "Wettable Sulphur 80 WP (@ 2.5 g/L).",
+    "chemical": "Propargite 57 EC (@ 2 ml/L) or Spiromesifen 22.9 SC (@ 1 ml/L).",
+    "etl": "5 mites per leaf.",
+    "severity": "Moderate to High",
+    "management": "Spray Spiromesifen 22.9 SC (@ 1 ml/L) or Wettable Sulphur 80 WP (@ 2.5 g/L)."
+  },
+  "aleurocanthus spiniferus": {
+    "organism": "Aleurocanthus spiniferus - Orange Spiny Whitefly",
+    "symptoms": "Dense colonies of spiny black nymphs on leaf undersides, copious sticky honeydew fostering thick black sooty mold fungus covering canopy.",
+    "cultural": "Prune infested lower leaves, improve canopy airflow.",
+    "biological": "Release parasitic aphelinid wasps (Encarsia smithi); spray Neem oil 1500 ppm (@ 3 ml/L).",
+    "chemical": "Spray Spiromesifen 22.9% SC (@ 1 ml/L) or Pyriproxyfen 10% EC (@ 1.5 ml/L) or Acetamiprid 20% SP (@ 0.3 g/L).",
+    "etl": "5-10 nymphs per leaf.",
+    "severity": "High (Sooty Mold Encrustation)",
+    "management": "Release Encarsia parasitoids. Spray Spiromesifen 22.9 SC (@ 1 ml/L) or Acetamiprid 20 SP (@ 0.3 g/L)."
+  },
+  "trialeurodes vaporariorum": {
+    "organism": "Trialeurodes vaporariorum - Greenhouse Whitefly",
+    "symptoms": "Tiny white moth-like adults fluttering from leaf undersides when disturbed; yellow leaf chlorosis, stunted growth, sooty mold.",
+    "cultural": "Yellow sticky cards (@ 20/greenhouse); screen vents with 50-mesh insect netting.",
+    "biological": "Release Encarsia formosa wasps; spray Beauveria bassiana (@ 5g/L).",
+    "chemical": "Spray Flonicamid 50% WG (@ 0.3 g/L) or Diafenthiuron 50% WP (@ 1.2 g/L) or Spiromesifen 22.9% SC (@ 1 ml/L).",
+    "etl": "1-2 whiteflies per leaf.",
+    "severity": "High (Greenhouse Pest & Sooty Mold)",
+    "management": "Deploy yellow sticky traps. Spray Diafenthiuron 50 WP (@ 1.2 g/L) or Flonicamid 50 WG (@ 0.3 g/L)."
+  },
+  "flea beetle": {
+    "organism": "Phyllotreta / Chaetocnema spp. - Flea Beetles",
+    "symptoms": "Adult beetles chew numerous tiny circular shot-holes through leaf blades; cotyledons and young leaves look peppered with holes.",
+    "cultural": "Use insect exclusion netting on seedlings; keep beds weed-free.",
+    "biological": "Spray Beauveria bassiana (@ 5g/L); apply neem cake.",
+    "chemical": "Spray Thiamethoxam 25% WG (@ 0.3 g/L) or Cypermethrin 10% EC (@ 1 ml/L) or Deltamethrin 2.8% EC (@ 1 ml/L).",
+    "etl": "1 beetle per seedling or 10% leaf area chewed.",
+    "severity": "Moderate to High",
+    "management": "Install floating row covers. Spray Thiamethoxam 25 WG (@ 0.3 g/L) or Cypermethrin 10 EC (@ 1 ml/L)."
+  },
+  "grub": {
+    "organism": "Holotrichia consanguinea / H. serrata - White Grub (Scarab Beetle Larvae)",
+    "symptoms": "C-shaped whitish subterranean grubs chew tap roots and rootlets, causing sudden wilting, drying, and lodging of plants in patches across the field.",
+    "cultural": "Deep summer plowing to expose grubs to birds; install light traps (1/ha) after first pre-monsoon shower to kill adult beetles.",
+    "biological": "Soil application of entomopathogenic fungus Metarhizium anisopliae or Beauveria brongniartii (@ 2.5 kg/ha enriched in FYM).",
+    "chemical": "Seed treatment with Chlorpyrifos 20% EC (@ 6-10 ml/kg seed) or Fipronil 40% + Imidacloprid 40% WG (Lesenta @ 2-3 g/kg seed). Standing crop: drench with Chlorpyrifos 20% EC (@ 4 ml/L) or apply Fipronil 0.3% GR (@ 10 kg/acre).",
+    "etl": "1 grub per square meter.",
+    "severity": "Critical (Root Severing & Sudden Patch Wilting)",
+    "management": "Light traps for adult beetles. Soil drench with Chlorpyrifos 20 EC (@ 4 ml/L) or apply Fipronil 0.3 GR (@ 10 kg/acre)."
+  },
+  "mole cricket": {
+    "organism": "Gryllotalpa africana - Mole Cricket",
+    "symptoms": "Nymphs and adults burrow underground, severing seedling roots, pushing up seedlings, and chewing plant crowns at night.",
+    "cultural": "Flooding of fields; deep plowing.",
+    "biological": "Apply Metarhizium anisopliae into soil.",
+    "chemical": "Broadcast poison bait (Rice bran 10 kg + Jaggery 1 kg + Chlorpyrifos 20 EC 500 ml) or soil drench Chlorpyrifos 20% EC (@ 3 ml/L).",
+    "etl": "2-3 tunnels per square meter.",
+    "severity": "Moderate to High",
+    "management": "Broadcast poison bait in late evening or flood field to force crickets to surface."
+  },
+  "wireworm": {
+    "organism": "Agriotes / Melanotus spp. (Click Beetle Larvae)",
+    "symptoms": "Hard yellowish-brown cylindrical wireworms bore into planted seeds, germinating seedlings, and underground tubers, causing patchy stands.",
+    "cultural": "Rotate with non-susceptible crops (brassicas); deep summer plowing.",
+    "biological": "Metarhizium anisopliae soil incorporation.",
+    "chemical": "Soil application of Fipronil 0.3% GR (@ 10 kg/acre) or seed dressing with Imidacloprid 70% WS (@ 4 g/kg seed).",
+    "etl": "1 wireworm per square foot.",
+    "severity": "High (Seed & Tuber Borer)",
+    "management": "Apply Fipronil 0.3 GR (@ 10 kg/acre) in furrow at planting."
+  },
+  "locustoidea": {
+    "organism": "Schistocerca gregaria / Locusta migratoria (Desert & Migratory Locust)",
+    "symptoms": "Massive flying swarms strip every leaf, shoot, flower, and bark within hours, completely denuding entire fields.",
+    "cultural": "Dig trenches to trap marching hopper bands; beat drums/create noise to prevent settling.",
+    "biological": "Aerial spray of Metarhizium acridum (Green Muscle bio-pesticide).",
+    "chemical": "Emergency control: ULV or barrier spraying of Malathion 96% ULV or Chlorpyrifos 20% EC (@ 3-4 ml/L) or Deltamethrin 2.8% EC.",
+    "etl": "Presence of gregarious locust hopper bands or swarms.",
+    "severity": "National Emergency (Total Agricultural Devastation)",
+    "management": "Alert local agriculture department / Locust Warning Organization (LWO). Spray Chlorpyrifos 20 EC (@ 3.5 ml/L) or Malathion."
+  },
+  "dacus dorsalis": {
+    "organism": "Bactrocera dorsalis - Oriental Fruit Fly",
+    "symptoms": "Female punctures mature fruit to lay eggs; maggots feed inside pulp causing watery breakdown, premature yellowing, and fruit rotting with exit holes.",
+    "cultural": "Install Methyl Eugenol pheromone traps (@ 10 traps/ha); collect and bury fallen infested fruits in deep pits (at least 60 cm deep); fruit bagging.",
+    "biological": "Conserve braconid parasitoids (Fopius arisanus).",
+    "chemical": "Bait spray application: Jaggery / Protein hydrolysate (100g) + Malathion 50% EC (20 ml) in 10 L water, sprayed in coarse droplets on tree canopies.",
+    "etl": "5 flies per trap per day.",
+    "severity": "Critical (Total Fruit Infestation & Export Ban)",
+    "management": "Install Methyl Eugenol traps (10/ha). Spray bait mixture (Jaggery + Malathion) on trunk and lower canopy."
+  },
+  "alfalfa seed chalcid": {
+    "organism": "Bruchophagus roddi - Hymenopteran Seed Wasp",
+    "symptoms": "Larvae feed and develop entirely inside growing legume seeds; adult emerges through a tiny circular exit hole, leaving hollow lightweight empty seed pods.",
+    "cultural": "Synchronize blooming and seed harvest across the area; eliminate volunteer host legumes along borders; burn chaff.",
+    "biological": "Conserve pteromalid parasitoid wasps; spray neem extract.",
+    "chemical": "Foliar spray of Chlorpyrifos 20% EC (@ 2 ml/L) or Quinalphos 25% EC (@ 2 ml/L) before peak seed oviposition.",
+    "etl": "5% pod infestation.",
+    "severity": "High (Seed Crop Collapse)",
+    "management": "Synchronize harvest and spray Quinalphos 25 EC (@ 2 ml/L) before peak pod setting."
+  },
+  "alfalfa weevil": {
+    "organism": "Hypera postica - Curculionid Weevil",
+    "symptoms": "Larvae chew holes in tender terminal foliage, skeletonizing leaves giving field a frosted, bleached white appearance.",
+    "cultural": "Early cutting / harvesting of first hay crop to starve larvae; field grazing in winter.",
+    "biological": "Conserve Bathyplectes parasitoid wasps; spray Beauveria bassiana (@ 5g/L).",
+    "chemical": "Spray Chlorpyrifos 20% EC (@ 2 ml/L) or Lambdacyhalothrin 5% EC (@ 0.5 ml/L) or Malathion 50% EC (@ 2 ml/L).",
+    "etl": "1-2 larvae per stem or 30-40% damaged stems.",
+    "severity": "High",
+    "management": "Early harvest or spray Lambdacyhalothrin 5 EC (@ 0.5 ml/L) if 30% stems damaged."
+  },
+  "soybean diabrotica speciosa": {
+    "organism": "Diabrotica speciosa - Cucurbit Beetle / Chrysomelid Leaf Beetle",
+    "symptoms": "Adults chew irregular holes in foliage and feed on flower petals; larvae feed on root nodules and taproots leading to plant lodging.",
+    "cultural": "Crop rotation with non-host crops; install yellow sticky monitoring traps; balanced nutrition.",
+    "biological": "Foliar spray of Beauveria bassiana (@ 5g/L) or Neem seed kernel extract (NSKE 5%).",
+    "chemical": "Foliar spray of Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) or Lambdacyhalothrin 5% EC (@ 0.5 ml/L) or Thiamethoxam 25% WG (@ 0.3 g/L).",
+    "etl": "2-3 beetles per meter row or 20% defoliation.",
+    "severity": "Moderate to High",
+    "management": "Rotate crops. Spray Chlorantraniliprole 18.5 SC (@ 0.3 ml/L) or NSKE 5%."
+  },
+  "soybean caterpillar": {
+    "organism": "Anticarsia gemmatalis / Spodoptera litura - Soybean Defoliator",
+    "symptoms": "Larvae feed voraciously on soybean leaf blades, stripping foliage down to midribs and chewing into pods.",
+    "cultural": "Deep plowing; install pheromone traps.",
+    "biological": "Nomuraea rileyi bio-fungicide or Bt (@ 2 g/L).",
+    "chemical": "Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) or Emamectin Benzoate 5% SG (@ 0.4 g/L).",
+    "etl": "20% defoliation before flowering.",
+    "severity": "High",
+    "management": "Spray Emamectin Benzoate 5 SG (@ 0.4 g/L) or Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "adristyrannus": {
+    "organism": "Noctuid Agricultural Defoliator Moth",
+    "symptoms": "Larvae chew irregular holes and skeletonize agricultural foliage during nocturnal feeding periods.",
+    "cultural": "Install light/pheromone traps; handpick egg masses.",
+    "biological": "Apply Bacillus thuringiensis (Bt @ 2 g/L) or Spinosad 45% SC on young larval instars.",
+    "chemical": "Chlorpyrifos 20% EC (@ 2 ml/L) or Emamectin Benzoate 5% SG (@ 0.4 g/L).",
+    "etl": "1-2 larvae per plant.",
+    "severity": "Moderate to High",
+    "management": "Deploy light traps. Spray Emamectin Benzoate 5 SG (@ 0.4 g/L) or Bt (@ 2 g/L)."
+  },
+  "blueberry": {
+    "organism": "Blueberry Pathogen",
+    "symptoms": "Visible pathological lesions, chlorosis, and necrotic patterns consistent with blueberry on Crop foliage.",
+    "cultural": "Practice strict field hygiene, eliminate weed hosts around field edges, and ensure balanced fertilization and scheduled drip irrigation.",
+    "biological": "Seed/soil application of Trichoderma viride (@ 2.5 kg/ha) or foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of broad-spectrum protective fungicide Mancozeb 75% WP (@ 2.5 g/L) or systemic Difenoconazole 25% EC (@ 0.5 ml/L). Consult your local Krishi Vigyan Kendra (KVK).",
+    "etl": "First appearance of expanding lesions in field.",
+    "severity": "High",
+    "management": "Inspect Crop canopy. Remove affected leaves and spray Mancozeb 75 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "raspberry": {
+    "organism": "Raspberry Pathogen",
+    "symptoms": "Visible pathological lesions, chlorosis, and necrotic patterns consistent with raspberry on Crop foliage.",
+    "cultural": "Practice strict field hygiene, eliminate weed hosts around field edges, and ensure balanced fertilization and scheduled drip irrigation.",
+    "biological": "Seed/soil application of Trichoderma viride (@ 2.5 kg/ha) or foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of broad-spectrum protective fungicide Mancozeb 75% WP (@ 2.5 g/L) or systemic Difenoconazole 25% EC (@ 0.5 ml/L). Consult your local Krishi Vigyan Kendra (KVK).",
+    "etl": "First appearance of expanding lesions in field.",
+    "severity": "High",
+    "management": "Inspect Crop canopy. Remove affected leaves and spray Mancozeb 75 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "sorghum downy mildew": {
+    "organism": "Sorghum Downy Mildew Pathogen",
+    "symptoms": "Visible pathological lesions, chlorosis, and necrotic patterns consistent with sorghum downy mildew on Sorghum foliage.",
+    "cultural": "Practice strict field hygiene, eliminate weed hosts around field edges, and ensure balanced fertilization and scheduled drip irrigation.",
+    "biological": "Seed/soil application of Trichoderma viride (@ 2.5 kg/ha) or foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of broad-spectrum protective fungicide Mancozeb 75% WP (@ 2.5 g/L) or systemic Difenoconazole 25% EC (@ 0.5 ml/L). Consult your local Krishi Vigyan Kendra (KVK).",
+    "etl": "First appearance of expanding lesions in field.",
+    "severity": "High",
+    "management": "Inspect Sorghum canopy. Remove affected leaves and spray Mancozeb 75 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "squash powdery mildew": {
+    "organism": "Squash Powdery Mildew Pathogen",
+    "symptoms": "Visible pathological lesions, chlorosis, and necrotic patterns consistent with squash powdery mildew on Squash foliage.",
+    "cultural": "Practice strict field hygiene, eliminate weed hosts around field edges, and ensure balanced fertilization and scheduled drip irrigation.",
+    "biological": "Seed/soil application of Trichoderma viride (@ 2.5 kg/ha) or foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of broad-spectrum protective fungicide Mancozeb 75% WP (@ 2.5 g/L) or systemic Difenoconazole 25% EC (@ 0.5 ml/L). Consult your local Krishi Vigyan Kendra (KVK).",
+    "etl": "First appearance of expanding lesions in field.",
+    "severity": "High",
+    "management": "Inspect Squash canopy. Remove affected leaves and spray Mancozeb 75 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "strawberry": {
+    "organism": "Strawberry Pathogen",
+    "symptoms": "Visible pathological lesions, chlorosis, and necrotic patterns consistent with strawberry on Crop foliage.",
+    "cultural": "Practice strict field hygiene, eliminate weed hosts around field edges, and ensure balanced fertilization and scheduled drip irrigation.",
+    "biological": "Seed/soil application of Trichoderma viride (@ 2.5 kg/ha) or foliar spray of Pseudomonas fluorescens (@ 5g/L).",
+    "chemical": "Foliar spray of broad-spectrum protective fungicide Mancozeb 75% WP (@ 2.5 g/L) or systemic Difenoconazole 25% EC (@ 0.5 ml/L). Consult your local Krishi Vigyan Kendra (KVK).",
+    "etl": "First appearance of expanding lesions in field.",
+    "severity": "High",
+    "management": "Inspect Crop canopy. Remove affected leaves and spray Mancozeb 75 WP (@ 2.5 g/L) or Difenoconazole 25 EC (@ 0.5 ml/L)."
+  },
+  "ampelophaga": {
+    "organism": "Ampelophaga (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by ampelophaga feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "bactrocera tsuneonis": {
+    "organism": "Bactrocera Tsuneonis (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by bactrocera tsuneonis feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "beet fly": {
+    "organism": "Beet Fly (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by beet fly feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "beet spot flies": {
+    "organism": "Beet Spot Flies (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by beet spot flies feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "beet weevil": {
+    "organism": "Beet Weevil (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by beet weevil feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "brevipoalpus lewisi mcgregor": {
+    "organism": "Brevipoalpus Lewisi Mcgregor (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by brevipoalpus lewisi mcgregor feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "cashew miner": {
+    "organism": "Cashew Miner (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by cashew miner feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "cerodonta denticornis": {
+    "organism": "Cerodonta Denticornis (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by cerodonta denticornis feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "ceroplastes rubens": {
+    "organism": "Ceroplastes Rubens (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by ceroplastes rubens feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "chlumetia transversa": {
+    "organism": "Chlumetia Transversa (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by chlumetia transversa feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "chrysomphalus aonidum": {
+    "organism": "Chrysomphalus Aonidum (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by chrysomphalus aonidum feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "dasineura sp": {
+    "organism": "Dasineura Sp (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by dasineura sp feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "deporaus marginatus pascoe": {
+    "organism": "Deporaus Marginatus Pascoe (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by deporaus marginatus pascoe feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "flax budworm": {
+    "organism": "Flax Budworm (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by flax budworm feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "icerya purchasi maskell": {
+    "organism": "Icerya Purchasi Maskell (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by icerya purchasi maskell feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "lawana imitata melichar": {
+    "organism": "Lawana Imitata Melichar (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by lawana imitata melichar feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "limacodidae": {
+    "organism": "Limacodidae (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by limacodidae feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "lycorma delicatula": {
+    "organism": "Lycorma Delicatula (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by lycorma delicatula feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "lytta polita": {
+    "organism": "Lytta Polita (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by lytta polita feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "mango flat beak hopper": {
+    "organism": "Mango Flat Beak Hopper (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by mango flat beak hopper feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "meadow moth": {
+    "organism": "Meadow Moth (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by meadow moth feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "nipaecoccus vastalor": {
+    "organism": "Nipaecoccus Vastalor (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by nipaecoccus vastalor feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "oides decempunctata": {
+    "organism": "Oides Decempunctata (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by oides decempunctata feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "paddy stem maggot": {
+    "organism": "Paddy Stem Maggot (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by paddy stem maggot feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "papilio xuthus": {
+    "organism": "Papilio Xuthus (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by papilio xuthus feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "parathrene regalis": {
+    "organism": "Parathrene Regalis (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by parathrene regalis feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "parlatoria zizyphus lucus": {
+    "organism": "Parlatoria Zizyphus Lucus (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by parlatoria zizyphus lucus feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "peach borer": {
+    "organism": "Peach Borer (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by peach borer feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "penthaleus major": {
+    "organism": "Penthaleus Major (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by penthaleus major feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "phyllocoptes oleiverus ashmead": {
+    "organism": "Phyllocoptes Oleiverus Ashmead (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by phyllocoptes oleiverus ashmead feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "pieris canidia": {
+    "organism": "Pieris Canidia (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by pieris canidia feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "polyphagotars onemus latus": {
+    "organism": "Polyphagotars Onemus Latus (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by polyphagotars onemus latus feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "potosiabre vitarsis": {
+    "organism": "Potosiabre Vitarsis (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by potosiabre vitarsis feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "prodenia litura": {
+    "organism": "Prodenia Litura (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by prodenia litura feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "pseudococcus comstocki kuwana": {
+    "organism": "Pseudococcus Comstocki Kuwana (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by pseudococcus comstocki kuwana feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "rhytidodera bowrinii white": {
+    "organism": "Rhytidodera Bowrinii White (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by rhytidodera bowrinii white feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "rice hopper": {
+    "organism": "Rice Hopper (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by rice hopper feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "rice shell pest": {
+    "organism": "Rice Shell Pest (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by rice shell pest feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "salurnis marginella guerr": {
+    "organism": "Salurnis Marginella Guerr (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by salurnis marginella guerr feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "sericaorient alismots chulsky": {
+    "organism": "Sericaorient Alismots Chulsky (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by sericaorient alismots chulsky feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "sternochetus frigidus": {
+    "organism": "Sternochetus Frigidus (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by sternochetus frigidus feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "tetradacus c bactrocera minax": {
+    "organism": "Tetradacus C Bactrocera Minax (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by tetradacus c bactrocera minax feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "therioaphis maculata buckton": {
+    "organism": "Therioaphis Maculata Buckton (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by therioaphis maculata buckton feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "unaspis yanonensis": {
+    "organism": "Unaspis Yanonensis (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by unaspis yanonensis feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "white margined moth": {
+    "organism": "White Margined Moth (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by white margined moth feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  },
+  "xylotrechus": {
+    "organism": "Xylotrechus (Agricultural Insect Pest)",
+    "symptoms": "Foliar puncture marks, defoliation, or sap-depletion symptoms caused by xylotrechus feeding.",
+    "cultural": "Erect sticky traps (yellow/blue @ 15/acre), clean field margins, and monitor light traps.",
+    "biological": "Foliar spray of 5% Neem Seed Kernel Extract (NSKE) or Beauveria bassiana 1.15% WP (@ 5g/L).",
+    "chemical": "Foliar spray of selective contact/systemic insecticide: Chlorantraniliprole 18.5% SC (@ 0.3 ml/L) for chewers, or Thiamethoxam 25% WG (@ 0.3 g/L) for sucking pests. Consult local KVK.",
+    "etl": "When insect count exceeds regional economic threshold level.",
+    "severity": "Moderate to High",
+    "management": "Deploy sticky traps. Apply NSKE 5% or targeted spray of Chlorantraniliprole 18.5 SC (@ 0.3 ml/L)."
+  }
+}
